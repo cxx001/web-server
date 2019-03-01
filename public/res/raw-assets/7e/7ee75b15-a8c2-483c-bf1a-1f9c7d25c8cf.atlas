@@ -1,0 +1,76 @@
+
+feiji-puke.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shunzi111
+  rotate: false
+  xy: 991, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+feiji111
+  rotate: false
+  xy: 779, 1
+  size: 210, 73
+  orig: 212, 73
+  offset: 1, 0
+  index: -1
+liandui111
+  rotate: false
+  xy: 994, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+zhadan1
+  rotate: false
+  xy: 997, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shunzi222
+  rotate: false
+  xy: 1009, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+zhadan2
+  rotate: false
+  xy: 1003, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+liandui222
+  rotate: false
+  xy: 1000, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+feiji222
+  rotate: false
+  xy: 566, 1
+  size: 211, 73
+  orig: 212, 73
+  offset: 1, 0
+  index: -1
+feiji1111
+  rotate: false
+  xy: 1, 1
+  size: 563, 257
+  orig: 563, 257
+  offset: 0, 0
+  index: -1
+noImage
+  rotate: false
+  xy: 1006, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

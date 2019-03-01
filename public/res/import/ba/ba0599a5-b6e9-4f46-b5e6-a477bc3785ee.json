@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zhadan-puke",
+    "texture": "36jMqWhohP+qVc/iCJLN+w",
+    "rect": [
+      1,
+      1,
+      1649,
+      1014
+    ],
+    "offset": [
+      -198.5,
+      4
+    ],
+    "originalSize": [
+      2048,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

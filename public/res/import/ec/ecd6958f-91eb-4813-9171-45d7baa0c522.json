@@ -1,0 +1,349 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "feiji-puke",
+  "_native": "raw-skeleton.json",
+  "_skeletonJson": {
+    "skeleton": {
+      "width": 562.8,
+      "height": 299.19,
+      "fps": 60,
+      "spine": "3.6.0",
+      "hash": " ",
+      "name": "armatureName"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "inheritScale": false,
+        "x": -102.6,
+        "y": -63.99204,
+        "name": "Layer5",
+        "parent": "root",
+        "transform": "noScale"
+      },
+      {
+        "inheritScale": false,
+        "name": "Layer2",
+        "parent": "root",
+        "transform": "noScale"
+      },
+      {
+        "inheritScale": false,
+        "name": "Layer1",
+        "parent": "root",
+        "transform": "noScale"
+      },
+      {
+        "inheritScale": false,
+        "name": "Layer4",
+        "parent": "root",
+        "transform": "noScale"
+      }
+    ],
+    "slots": [
+      {
+        "name": "Layer1",
+        "bone": "Layer1",
+        "attachment": "zhadan1"
+      },
+      {
+        "name": "Layer2",
+        "bone": "Layer2",
+        "attachment": "zhadan2"
+      },
+      {
+        "name": "Layer5",
+        "bone": "Layer5",
+        "attachment": "feiji1111"
+      },
+      {
+        "name": "Layer4",
+        "bone": "Layer4",
+        "attachment": "noImage"
+      }
+    ],
+    "skins": {
+      "default": {
+        "Layer4": {
+          "noImage": {
+            "name": "noImage",
+            "width": 1,
+            "height": 1
+          }
+        },
+        "Layer5": {
+          "feiji1111": {
+            "name": "feiji1111",
+            "width": 563,
+            "height": 257
+          }
+        },
+        "Layer2": {
+          "zhadan2": {
+            "name": "zhadan2",
+            "width": 1,
+            "height": 1,
+            "x": -0.6,
+            "y": 0.6
+          },
+          "liandui222": {
+            "name": "liandui222",
+            "width": 1,
+            "height": 1,
+            "x": -0.6,
+            "y": 0.6
+          },
+          "shunzi222": {
+            "name": "shunzi222",
+            "width": 1,
+            "height": 1,
+            "x": -0.6,
+            "y": 0.6
+          },
+          "liandui111": {
+            "name": "liandui111",
+            "width": 1,
+            "height": 1,
+            "x": -0.6,
+            "y": 0.6
+          },
+          "feiji222": {
+            "name": "feiji222",
+            "width": 211,
+            "height": 73
+          }
+        },
+        "Layer1": {
+          "zhadan1": {
+            "name": "zhadan1",
+            "width": 1,
+            "height": 1,
+            "x": -0.6,
+            "y": 0.6
+          },
+          "liandui111": {
+            "name": "liandui111",
+            "width": 1,
+            "height": 1,
+            "x": -0.6,
+            "y": 0.6
+          },
+          "shunzi111": {
+            "name": "shunzi111",
+            "width": 1,
+            "height": 1,
+            "x": -0.6,
+            "y": 0.6
+          },
+          "feiji111": {
+            "name": "feiji111",
+            "width": 210,
+            "height": 73
+          }
+        }
+      }
+    },
+    "animations": {
+      "Animation1": {
+        "bones": {
+          "Layer5": {
+            "translate": [
+              {
+                "time": 0
+              },
+              {
+                "time": 0.75
+              },
+              {
+                "time": 0.7833,
+                "x": -94.8,
+                "y": -52.8
+              },
+              {
+                "time": 2.1833,
+                "x": 166.8,
+                "y": 106.8
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.75,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.7833,
+                "x": 0.2,
+                "y": 0.2
+              },
+              {
+                "time": 2.1833,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "Layer2": {
+            "translate": [
+              {
+                "time": 0
+              },
+              {
+                "time": 0.15
+              },
+              {
+                "time": 0.1833,
+                "x": 36
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.1833,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.7833,
+                "x": 1.5,
+                "y": 1.5
+              }
+            ]
+          },
+          "Layer1": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 204
+              },
+              {
+                "time": 0.2,
+                "x": 36
+              }
+            ]
+          }
+        },
+        "slots": {
+          "Layer4": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": ""
+              },
+              {
+                "time": 0.7833,
+                "name": "noImage"
+              }
+            ]
+          },
+          "Layer5": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": ""
+              },
+              {
+                "time": 0.7833,
+                "name": "feiji1111"
+              }
+            ],
+            "color": [
+              {
+                "time": 0,
+                "color": "FFFFFFFF"
+              },
+              {
+                "time": 0.75,
+                "color": "FFFFFFFF"
+              },
+              {
+                "time": 0.7833,
+                "color": "FFFFFF30"
+              },
+              {
+                "time": 2.1833,
+                "color": "FFFFFFFF"
+              },
+              {
+                "time": 2.3833,
+                "color": "FFFFFF00"
+              }
+            ]
+          },
+          "Layer2": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": ""
+              },
+              {
+                "time": 0.1833,
+                "name": "feiji222"
+              }
+            ],
+            "color": [
+              {
+                "time": 0,
+                "color": "FFFFFFFF"
+              },
+              {
+                "time": 0.1833,
+                "color": "FFFFFFFF"
+              },
+              {
+                "time": 0.7833,
+                "color": "FFFFFF00"
+              }
+            ]
+          },
+          "Layer1": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "feiji111"
+              },
+              {
+                "time": 1.4333,
+                "name": ""
+              }
+            ],
+            "color": [
+              {
+                "time": 0,
+                "color": "FFFFFFFF"
+              },
+              {
+                "time": 0.8,
+                "color": "FFFFFFFF"
+              },
+              {
+                "time": 1.4,
+                "color": "FFFFFF00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nfeiji-puke.png\nsize: 1024,512\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nshunzi111\n  rotate: false\n  xy: 991, 1\n  size: 1, 1\n  orig: 1, 1\n  offset: 0, 0\n  index: -1\nfeiji111\n  rotate: false\n  xy: 779, 1\n  size: 210, 73\n  orig: 212, 73\n  offset: 1, 0\n  index: -1\nliandui111\n  rotate: false\n  xy: 994, 1\n  size: 1, 1\n  orig: 1, 1\n  offset: 0, 0\n  index: -1\nzhadan1\n  rotate: false\n  xy: 997, 1\n  size: 1, 1\n  orig: 1, 1\n  offset: 0, 0\n  index: -1\nshunzi222\n  rotate: false\n  xy: 1009, 1\n  size: 1, 1\n  orig: 1, 1\n  offset: 0, 0\n  index: -1\nzhadan2\n  rotate: false\n  xy: 1003, 1\n  size: 1, 1\n  orig: 1, 1\n  offset: 0, 0\n  index: -1\nliandui222\n  rotate: false\n  xy: 1000, 1\n  size: 1, 1\n  orig: 1, 1\n  offset: 0, 0\n  index: -1\nfeiji222\n  rotate: false\n  xy: 566, 1\n  size: 211, 73\n  orig: 212, 73\n  offset: 1, 0\n  index: -1\nfeiji1111\n  rotate: false\n  xy: 1, 1\n  size: 563, 257\n  orig: 563, 257\n  offset: 0, 0\n  index: -1\nnoImage\n  rotate: false\n  xy: 1006, 1\n  size: 1, 1\n  orig: 1, 1\n  offset: 0, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "52azluejJLrbVgUi/I9bGr"
+    }
+  ],
+  "textureNames": [
+    "feiji-puke.png"
+  ]
+}

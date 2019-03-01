@@ -1,0 +1,90 @@
+
+zhadan-puke.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhadan1
+  rotate: false
+  xy: 1, 940
+  size: 218, 72
+  orig: 220, 73
+  offset: 0, 1
+  index: -1
+zhadan2
+  rotate: false
+  xy: 1, 865
+  size: 218, 73
+  orig: 220, 73
+  offset: 0, 0
+  index: -1
+noImage
+  rotate: false
+  xy: 1, 1014
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+zhadandan
+  rotate: false
+  xy: 1397, 1
+  size: 253, 198
+  orig: 253, 198
+  offset: 0, 0
+  index: -1
+bz01
+  rotate: false
+  xy: 1048, 1
+  size: 347, 430
+  orig: 347, 430
+  offset: 0, 0
+  index: -1
+bz02
+  rotate: false
+  xy: 1, 1
+  size: 347, 430
+  orig: 347, 430
+  offset: 0, 0
+  index: -1
+bz03
+  rotate: false
+  xy: 350, 1
+  size: 347, 430
+  orig: 347, 430
+  offset: 0, 0
+  index: -1
+bz04
+  rotate: false
+  xy: 350, 433
+  size: 347, 430
+  orig: 347, 430
+  offset: 0, 0
+  index: -1
+bz05
+  rotate: false
+  xy: 699, 1
+  size: 347, 430
+  orig: 347, 430
+  offset: 0, 0
+  index: -1
+bz06
+  rotate: false
+  xy: 699, 433
+  size: 347, 430
+  orig: 347, 430
+  offset: 0, 0
+  index: -1
+bz07
+  rotate: false
+  xy: 1048, 433
+  size: 347, 430
+  orig: 347, 430
+  offset: 0, 0
+  index: -1
+bz08
+  rotate: false
+  xy: 1, 433
+  size: 347, 430
+  orig: 347, 430
+  offset: 0, 0
+  index: -1

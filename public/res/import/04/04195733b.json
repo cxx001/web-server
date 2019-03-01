@@ -1,0 +1,229 @@
+[
+  [
+    {
+      "__type__": "cc.Prefab",
+      "_name": "Tips",
+      "data": {
+        "__id__": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "Tips",
+      "_children": [
+        {
+          "__id__": 2
+        }
+      ],
+      "_level": 1,
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "83JhVEzIdJjrMPJGfTTCJ7"
+        },
+        "fileId": "45W7evcA1F2KlXRgbSRx6e"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 1280,
+        "height": 720
+      },
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "tipsbg",
+      "_parent": {
+        "__id__": 1
+      },
+      "_children": [
+        {
+          "__id__": 3
+        }
+      ],
+      "_level": 2,
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 2
+          },
+          "_spriteFrame": {
+            "__uuid__": "94xJx7eZVDh5u3vFD8eWxI"
+          },
+          "_sizeMode": 0
+        },
+        {
+          "__type__": "cc.Layout",
+          "node": {
+            "__id__": 2
+          },
+          "_layoutSize": {
+            "__type__": "cc.Size",
+            "width": 173.48,
+            "height": 50
+          },
+          "_resize": 1,
+          "_N$paddingLeft": 20,
+          "_N$paddingRight": 20
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "83JhVEzIdJjrMPJGfTTCJ7"
+        },
+        "fileId": "90DqE/QBhOfo2WfPQWihUv"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 173.48,
+        "height": 50
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "y": 101
+      },
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "text",
+      "_parent": {
+        "__id__": 2
+      },
+      "_children": [
+        {
+          "__id__": 4
+        }
+      ],
+      "_level": 3,
+      "_components": [
+        {
+          "__type__": "cc.RichText",
+          "node": {
+            "__id__": 3
+          },
+          "_N$string": "123213",
+          "_N$horizontalAlign": 1,
+          "_N$lineHeight": 50
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "83JhVEzIdJjrMPJGfTTCJ7"
+        },
+        "fileId": "b1vA8duyhFiqy68CFeePlL"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 133.48,
+        "height": 50
+      },
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.PrivateNode",
+      "_name": "RICHTEXT_CHILD",
+      "_parent": {
+        "__id__": 3
+      },
+      "_level": 4,
+      "_components": [
+        {
+          "__type__": "cc.Label",
+          "node": {
+            "__id__": 4
+          },
+          "_srcBlendFactor": 1,
+          "_string": "123213",
+          "_N$string": "123213",
+          "_lineHeight": 50,
+          "_N$verticalAlign": 1
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "83JhVEzIdJjrMPJGfTTCJ7"
+        },
+        "fileId": "62XSQDpwpNdq5h1gBt6Hiv"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 133.48,
+        "height": 50
+      },
+      "_anchorPoint": {
+        "__type__": "cc.Vec2"
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": -66.74,
+        "y": -25
+      },
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "_zIndex": -32768
+    }
+  ],
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "bg_black_tip_bg",
+      "texture": "2bKLuExoFAEa31xck8+0qU",
+      "rect": [
+        0,
+        0,
+        370,
+        83
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        370,
+        83
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  }
+]

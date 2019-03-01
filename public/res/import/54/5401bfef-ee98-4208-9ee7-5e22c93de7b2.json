@@ -1,0 +1,632 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "zhadan-puke",
+  "_native": "raw-skeleton.json",
+  "_skeletonJson": {
+    "skeleton": {
+      "width": 346.8,
+      "height": 489.6,
+      "fps": 60,
+      "spine": "3.6.0",
+      "hash": " ",
+      "name": "armatureName"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "inheritScale": false,
+        "x": -12,
+        "y": 30,
+        "name": "Layer7",
+        "parent": "root",
+        "transform": "noScale"
+      },
+      {
+        "inheritScale": false,
+        "name": "Layer2",
+        "parent": "root",
+        "transform": "noScale"
+      },
+      {
+        "inheritScale": false,
+        "name": "Layer3",
+        "parent": "root",
+        "transform": "noScale"
+      },
+      {
+        "inheritScale": false,
+        "x": 26.4,
+        "y": 16.8,
+        "name": "Layer4",
+        "parent": "root",
+        "transform": "noScale"
+      },
+      {
+        "inheritScale": false,
+        "x": -12,
+        "y": 30,
+        "name": "Layer5",
+        "parent": "root",
+        "transform": "noScale"
+      },
+      {
+        "inheritScale": false,
+        "x": -12,
+        "y": 30,
+        "name": "Layer6",
+        "parent": "root",
+        "transform": "noScale"
+      },
+      {
+        "inheritScale": false,
+        "name": "Layer1",
+        "parent": "root",
+        "transform": "noScale"
+      },
+      {
+        "inheritScale": false,
+        "x": -12,
+        "y": 30,
+        "name": "Layer8",
+        "parent": "root",
+        "transform": "noScale"
+      },
+      {
+        "inheritScale": false,
+        "x": -12,
+        "y": 30,
+        "name": "Layer9",
+        "parent": "root",
+        "transform": "noScale"
+      },
+      {
+        "inheritScale": false,
+        "x": -12,
+        "y": 30,
+        "name": "Layer10",
+        "parent": "root",
+        "transform": "noScale"
+      },
+      {
+        "inheritScale": false,
+        "x": -12,
+        "y": -30,
+        "name": "Layer11",
+        "parent": "root",
+        "transform": "noScale"
+      },
+      {
+        "inheritScale": false,
+        "x": -12,
+        "y": 30,
+        "name": "Layer12",
+        "parent": "root",
+        "transform": "noScale"
+      }
+    ],
+    "slots": [
+      {
+        "name": "Layer1",
+        "bone": "Layer1",
+        "attachment": "zhadan1"
+      },
+      {
+        "name": "Layer2",
+        "bone": "Layer2",
+        "attachment": "zhadan2"
+      },
+      {
+        "name": "Layer3",
+        "bone": "Layer3",
+        "attachment": "noImage"
+      },
+      {
+        "name": "Layer4",
+        "bone": "Layer4",
+        "attachment": "zhadandan"
+      },
+      {
+        "name": "Layer5",
+        "bone": "Layer5",
+        "attachment": "bz01"
+      },
+      {
+        "name": "Layer6",
+        "bone": "Layer6",
+        "attachment": "bz02"
+      },
+      {
+        "name": "Layer7",
+        "bone": "Layer7",
+        "attachment": "bz03"
+      },
+      {
+        "name": "Layer8",
+        "bone": "Layer8",
+        "attachment": "bz04"
+      },
+      {
+        "name": "Layer9",
+        "bone": "Layer9",
+        "attachment": "bz05"
+      },
+      {
+        "name": "Layer10",
+        "bone": "Layer10",
+        "attachment": "bz06"
+      },
+      {
+        "name": "Layer11",
+        "bone": "Layer11",
+        "attachment": "bz07"
+      },
+      {
+        "name": "Layer12",
+        "bone": "Layer12",
+        "attachment": "bz08"
+      }
+    ],
+    "skins": {
+      "default": {
+        "Layer8": {
+          "bz04": {
+            "name": "bz04",
+            "width": 347,
+            "height": 430
+          }
+        },
+        "Layer10": {
+          "bz06": {
+            "name": "bz06",
+            "width": 347,
+            "height": 430
+          }
+        },
+        "Layer3": {
+          "noImage": {
+            "name": "noImage",
+            "width": 1,
+            "height": 1
+          }
+        },
+        "Layer12": {
+          "bz08": {
+            "name": "bz08",
+            "width": 347,
+            "height": 430
+          }
+        },
+        "Layer5": {
+          "bz01": {
+            "name": "bz01",
+            "width": 347,
+            "height": 430
+          }
+        },
+        "Layer7": {
+          "bz03": {
+            "name": "bz03",
+            "width": 347,
+            "height": 430
+          }
+        },
+        "Layer2": {
+          "zhadan2": {
+            "name": "zhadan2",
+            "width": 218,
+            "height": 73
+          }
+        },
+        "Layer1": {
+          "zhadan1": {
+            "name": "zhadan1",
+            "width": 218,
+            "height": 72
+          }
+        },
+        "Layer11": {
+          "bz07": {
+            "name": "bz07",
+            "width": 347,
+            "height": 430
+          }
+        },
+        "Layer4": {
+          "zhadandan": {
+            "name": "zhadandan",
+            "width": 253,
+            "height": 198
+          }
+        },
+        "Layer9": {
+          "bz05": {
+            "name": "bz05",
+            "width": 347,
+            "height": 430
+          }
+        },
+        "Layer6": {
+          "bz02": {
+            "name": "bz02",
+            "width": 347,
+            "height": 430
+          }
+        }
+      }
+    },
+    "animations": {
+      "Animation1": {
+        "bones": {
+          "Layer4": {
+            "translate": [
+              {
+                "time": 0,
+                "y": 120
+              },
+              {
+                "time": 0.75,
+                "y": 120
+              },
+              {
+                "time": 0.8667
+              },
+              {
+                "time": 0.9334,
+                "y": 12
+              },
+              {
+                "time": 1.0001
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 0.4,
+                "y": 0.4
+              },
+              {
+                "time": 0.75,
+                "x": 0.4,
+                "y": 0.4
+              },
+              {
+                "time": 0.8667,
+                "x": 0.8,
+                "y": 0.8
+              }
+            ]
+          },
+          "Layer3": {
+            "translate": [
+              {
+                "time": 0
+              },
+              {
+                "time": 0.15
+              },
+              {
+                "time": 0.1833,
+                "x": 36
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.15,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.1833,
+                "x": 0.8,
+                "y": 0.3
+              }
+            ]
+          },
+          "Layer2": {
+            "translate": [
+              {
+                "time": 0
+              },
+              {
+                "time": 0.15
+              },
+              {
+                "time": 0.1833,
+                "x": 36
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.1833,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.7833,
+                "x": 1.4,
+                "y": 1.4
+              }
+            ]
+          },
+          "Layer1": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 204
+              },
+              {
+                "time": 0.2,
+                "x": 36
+              }
+            ]
+          }
+        },
+        "slots": {
+          "Layer12": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": ""
+              },
+              {
+                "time": 1.7833,
+                "name": "bz08"
+              },
+              {
+                "time": 1.85,
+                "name": ""
+              }
+            ]
+          },
+          "Layer11": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": ""
+              },
+              {
+                "time": 1.7,
+                "name": "bz07"
+              },
+              {
+                "time": 1.7667,
+                "name": ""
+              }
+            ]
+          },
+          "Layer10": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": ""
+              },
+              {
+                "time": 1.6333,
+                "name": "bz06"
+              },
+              {
+                "time": 1.7,
+                "name": ""
+              }
+            ]
+          },
+          "Layer9": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": ""
+              },
+              {
+                "time": 1.55,
+                "name": "bz05"
+              },
+              {
+                "time": 1.6167,
+                "name": ""
+              }
+            ]
+          },
+          "Layer8": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": ""
+              },
+              {
+                "time": 1.4667,
+                "name": "bz04"
+              },
+              {
+                "time": 1.5334,
+                "name": ""
+              }
+            ]
+          },
+          "Layer7": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": ""
+              },
+              {
+                "time": 1.3833,
+                "name": "bz03"
+              },
+              {
+                "time": 1.45,
+                "name": ""
+              }
+            ]
+          },
+          "Layer6": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": ""
+              },
+              {
+                "time": 1.3,
+                "name": "bz02"
+              },
+              {
+                "time": 1.3667,
+                "name": ""
+              }
+            ]
+          },
+          "Layer5": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": ""
+              },
+              {
+                "time": 1.2333,
+                "name": "bz01"
+              },
+              {
+                "time": 1.3,
+                "name": ""
+              }
+            ]
+          },
+          "Layer4": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "zhadandan"
+              },
+              {
+                "time": 0.7167,
+                "name": ""
+              },
+              {
+                "time": 0.75,
+                "name": "zhadandan"
+              },
+              {
+                "time": 1.2333,
+                "name": ""
+              }
+            ],
+            "color": [
+              {
+                "time": 0,
+                "color": "FFFFFF00"
+              },
+              {
+                "time": 0.75,
+                "color": "FFFFFF00"
+              },
+              {
+                "time": 0.8667,
+                "color": "FFFFFFFF"
+              },
+              {
+                "time": 1,
+                "color": "FFFFFFFF"
+              },
+              {
+                "time": 1.2,
+                "color": "FFFFFF00"
+              }
+            ]
+          },
+          "Layer3": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": ""
+              },
+              {
+                "time": 0.1833,
+                "name": "noImage"
+              }
+            ]
+          },
+          "Layer2": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": ""
+              },
+              {
+                "time": 0.1833,
+                "name": "zhadan2"
+              },
+              {
+                "time": 0.8166,
+                "name": ""
+              }
+            ],
+            "color": [
+              {
+                "time": 0,
+                "color": "FFFFFFFF"
+              },
+              {
+                "time": 0.15,
+                "color": "FFFFFFFF"
+              },
+              {
+                "time": 0.1833,
+                "color": "FFFFFFB3"
+              },
+              {
+                "time": 0.7833,
+                "color": "FFFFFF00"
+              }
+            ]
+          },
+          "Layer1": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "zhadan1"
+              },
+              {
+                "time": 1.2667,
+                "name": ""
+              }
+            ],
+            "color": [
+              {
+                "time": 0,
+                "color": "FFFFFFFF"
+              },
+              {
+                "time": 0.8,
+                "color": "FFFFFFFF"
+              },
+              {
+                "time": 1.2333,
+                "color": "FFFFFF00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nzhadan-puke.png\nsize: 2048,1024\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nzhadan1\n  rotate: false\n  xy: 1, 940\n  size: 218, 72\n  orig: 220, 73\n  offset: 0, 1\n  index: -1\nzhadan2\n  rotate: false\n  xy: 1, 865\n  size: 218, 73\n  orig: 220, 73\n  offset: 0, 0\n  index: -1\nnoImage\n  rotate: false\n  xy: 1, 1014\n  size: 1, 1\n  orig: 1, 1\n  offset: 0, 0\n  index: -1\nzhadandan\n  rotate: false\n  xy: 1397, 1\n  size: 253, 198\n  orig: 253, 198\n  offset: 0, 0\n  index: -1\nbz01\n  rotate: false\n  xy: 1048, 1\n  size: 347, 430\n  orig: 347, 430\n  offset: 0, 0\n  index: -1\nbz02\n  rotate: false\n  xy: 1, 1\n  size: 347, 430\n  orig: 347, 430\n  offset: 0, 0\n  index: -1\nbz03\n  rotate: false\n  xy: 350, 1\n  size: 347, 430\n  orig: 347, 430\n  offset: 0, 0\n  index: -1\nbz04\n  rotate: false\n  xy: 350, 433\n  size: 347, 430\n  orig: 347, 430\n  offset: 0, 0\n  index: -1\nbz05\n  rotate: false\n  xy: 699, 1\n  size: 347, 430\n  orig: 347, 430\n  offset: 0, 0\n  index: -1\nbz06\n  rotate: false\n  xy: 699, 433\n  size: 347, 430\n  orig: 347, 430\n  offset: 0, 0\n  index: -1\nbz07\n  rotate: false\n  xy: 1048, 433\n  size: 347, 430\n  orig: 347, 430\n  offset: 0, 0\n  index: -1\nbz08\n  rotate: false\n  xy: 1, 433\n  size: 347, 430\n  orig: 347, 430\n  offset: 0, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "36jMqWhohP+qVc/iCJLN+w"
+    }
+  ],
+  "textureNames": [
+    "zhadan-puke.png"
+  ]
+}

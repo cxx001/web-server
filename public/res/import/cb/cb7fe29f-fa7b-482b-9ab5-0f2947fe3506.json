@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_bean_big",
+    "texture": "cb8z4vzU1HXJPT3NDFgUBq",
+    "rect": [
+      0,
+      0,
+      136,
+      112
+    ],
+    "offset": [
+      -0.5,
+      1
+    ],
+    "originalSize": [
+      137,
+      114
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

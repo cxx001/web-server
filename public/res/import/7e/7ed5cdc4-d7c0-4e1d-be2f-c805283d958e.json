@@ -1,0 +1,9 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "cc-inspector",
+  "json": {
+    "host": "192.168.168.1",
+    "port": 6543,
+    "isRunInGameStart": true
+  }
+}

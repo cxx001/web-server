@@ -1,0 +1,49 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "labAction",
+    "data": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "labAction",
+    "_level": 1,
+    "_components": [
+      {
+        "__type__": "cc.Label",
+        "node": {
+          "__id__": 1
+        },
+        "_string": "要不起",
+        "_N$string": "要不起",
+        "_N$file": {
+          "__uuid__": "d9pL5jqy1G6IlVTLgDNO65"
+        },
+        "_isSystemFontUsed": false
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "19Tg/Yk0RAAYSqt2toXlck"
+      },
+      "fileId": "1daC51aKdNkJWvDmLE1MF4"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 126.04,
+      "height": 30.19
+    },
+    "_scale": {
+      "__type__": "cc.Vec3",
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  }
+]

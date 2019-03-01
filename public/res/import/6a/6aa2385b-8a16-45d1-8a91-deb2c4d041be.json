@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_game_select",
+    "texture": "efg30nlhlM24AY6N/HB5+u",
+    "rect": [
+      0,
+      3,
+      83,
+      453
+    ],
+    "offset": [
+      -1,
+      0
+    ],
+    "originalSize": [
+      85,
+      459
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

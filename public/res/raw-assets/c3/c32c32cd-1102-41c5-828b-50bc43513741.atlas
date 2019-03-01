@@ -1,0 +1,48 @@
+
+shunzi-puke.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shunzi111
+  rotate: false
+  xy: 1, 1
+  size: 160, 73
+  orig: 161, 73
+  offset: 1, 0
+  index: -1
+liandui111
+  rotate: false
+  xy: 163, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+zhadan1
+  rotate: false
+  xy: 166, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+zhadan2
+  rotate: false
+  xy: 169, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+liandui222
+  rotate: false
+  xy: 172, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shunzi222
+  rotate: false
+  xy: 1, 76
+  size: 160, 73
+  orig: 161, 73
+  offset: 1, 0
+  index: -1

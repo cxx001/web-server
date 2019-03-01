@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "4dai3-puke_1",
+    "texture": "57G358MCVOAKIXkPwuL4/e",
+    "rect": [
+      1,
+      1,
+      173,
+      74
+    ],
+    "offset": [
+      -40.5,
+      26
+    ],
+    "originalSize": [
+      256,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
