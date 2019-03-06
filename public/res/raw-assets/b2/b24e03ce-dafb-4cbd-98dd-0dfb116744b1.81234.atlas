@@ -1,0 +1,27 @@
+
+dh_buff_donghua.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhuang-dh
+  rotate: false
+  xy: 217, 1
+  size: 55, 60
+  orig: 55, 60
+  offset: 0, 0
+  index: -1
+dh_buff_guang
+  rotate: false
+  xy: 1, 1
+  size: 214, 218
+  orig: 232, 243
+  offset: 9, 11
+  index: -1
+dh_buff_xingxing
+  rotate: false
+  xy: 1, 221
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1

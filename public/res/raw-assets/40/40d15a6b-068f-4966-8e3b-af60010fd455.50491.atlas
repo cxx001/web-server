@@ -1,0 +1,48 @@
+
+dtshangchengdonghua.png
+size: 128,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dtshangchengdonghua_dian
+  rotate: false
+  xy: 82, 167
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+dtshangchengdonghua_gouwuche
+  rotate: false
+  xy: 1, 1
+  size: 102, 94
+  orig: 114, 107
+  offset: 6, 7
+  index: -1
+dtshangchengdonghua_biaoqian
+  rotate: false
+  xy: 1, 97
+  size: 61, 56
+  orig: 61, 56
+  offset: 0, 0
+  index: -1
+dtshangchengdonghua_shengzi
+  rotate: false
+  xy: 47, 167
+  size: 33, 23
+  orig: 33, 23
+  offset: 0, 0
+  index: -1
+dtshangchengdonghua_guangxian
+  rotate: false
+  xy: 64, 97
+  size: 39, 68
+  orig: 39, 68
+  offset: 0, 0
+  index: -1
+dtshangchengdonghua_xing
+  rotate: false
+  xy: 1, 155
+  size: 44, 35
+  orig: 44, 35
+  offset: 0, 0
+  index: -1

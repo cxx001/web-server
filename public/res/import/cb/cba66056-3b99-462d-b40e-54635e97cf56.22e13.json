@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "san-sandaier",
+    "texture": "23C09QsLRFOpW50/v5ULP1",
+    "rect": [
+      1,
+      1,
+      504,
+      416
+    ],
+    "offset": [
+      -3,
+      47
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

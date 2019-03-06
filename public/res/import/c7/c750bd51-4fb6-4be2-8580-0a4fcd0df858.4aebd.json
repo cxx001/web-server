@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sanshun",
+    "texture": "54Xv01g6tCeqsKZ1yTyH+E",
+    "rect": [
+      1,
+      1,
+      169,
+      81
+    ],
+    "offset": [
+      -42.5,
+      22.5
+    ],
+    "originalSize": [
+      256,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

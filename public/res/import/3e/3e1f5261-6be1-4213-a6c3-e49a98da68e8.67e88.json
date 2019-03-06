@@ -1,0 +1,750 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "baozha",
+  "_native": "raw-skeleton.json",
+  "_skeletonJson": {
+    "skeleton": {
+      "width": 212,
+      "height": 177,
+      "fps": 60,
+      "spine": "3.6.0",
+      "hash": " ",
+      "name": "armatureName"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "inheritScale": false,
+        "x": -1,
+        "y": 1,
+        "name": "2",
+        "parent": "root",
+        "transform": "noScale"
+      },
+      {
+        "inheritScale": false,
+        "x": -1,
+        "y": 1.05,
+        "name": "1",
+        "parent": "root",
+        "transform": "noScale"
+      },
+      {
+        "inheritScale": false,
+        "name": "3",
+        "parent": "root",
+        "transform": "noScale"
+      },
+      {
+        "inheritScale": false,
+        "x": -1,
+        "y": 1,
+        "scaleX": 0.19,
+        "scaleY": 0.19,
+        "name": "4",
+        "parent": "root",
+        "transform": "noScale"
+      },
+      {
+        "inheritScale": false,
+        "name": "5",
+        "parent": "root",
+        "transform": "noScale"
+      },
+      {
+        "inheritScale": false,
+        "name": "6",
+        "parent": "root",
+        "transform": "noScale"
+      }
+    ],
+    "slots": [
+      {
+        "name": "4",
+        "bone": "4",
+        "attachment": "ciguang"
+      },
+      {
+        "name": "1",
+        "bone": "1",
+        "attachment": "behit_gaobao_a_01"
+      },
+      {
+        "name": "3",
+        "bone": "3",
+        "attachment": "xiaoguang"
+      },
+      {
+        "name": "2",
+        "bone": "2",
+        "attachment": "bujian1"
+      },
+      {
+        "name": "5",
+        "bone": "5",
+        "attachment": "baozha_wb"
+      },
+      {
+        "name": "6",
+        "bone": "6",
+        "attachment": "baozha_wb"
+      }
+    ],
+    "skins": {
+      "default": {
+        "1": {
+          "behit_gaobao_a_01": {
+            "name": "behit_gaobao_a_01",
+            "width": 82,
+            "height": 69
+          },
+          "behit_gaobao_a_02": {
+            "name": "behit_gaobao_a_02",
+            "width": 137,
+            "height": 126
+          },
+          "behit_gaobao_a_08": {
+            "name": "behit_gaobao_a_08",
+            "width": 298,
+            "height": 257
+          },
+          "behit_gaobao_a_09": {
+            "name": "behit_gaobao_a_09",
+            "width": 303,
+            "height": 241
+          },
+          "behit_gaobao_a_10": {
+            "name": "behit_gaobao_a_10",
+            "width": 266,
+            "height": 252
+          },
+          "behit_gaobao_a_11": {
+            "name": "behit_gaobao_a_11",
+            "width": 290,
+            "height": 300
+          },
+          "behit_gaobao_a_12": {
+            "name": "behit_gaobao_a_12",
+            "width": 1,
+            "height": 1,
+            "x": -0.5,
+            "y": 0.5
+          },
+          "behit_gaobao_a_13": {
+            "name": "behit_gaobao_a_13",
+            "width": 1,
+            "height": 1,
+            "x": -0.5,
+            "y": 0.5
+          },
+          "behit_gaobao_a_14": {
+            "name": "behit_gaobao_a_14",
+            "width": 1,
+            "height": 1,
+            "x": -0.5,
+            "y": 0.5
+          }
+        },
+        "2": {
+          "bujian1": {
+            "name": "bujian1",
+            "width": 99,
+            "height": 36,
+            "x": 0.3,
+            "y": -0.2
+          }
+        },
+        "3": {
+          "xiaoguang": {
+            "name": "xiaoguang",
+            "width": 88,
+            "height": 94
+          },
+          "xiaoguang2": {
+            "name": "xiaoguang2",
+            "width": 228,
+            "height": 207
+          },
+          "xiaoguang3": {
+            "name": "xiaoguang3",
+            "width": 305,
+            "height": 277
+          }
+        },
+        "4": {
+          "ciguang": {
+            "name": "ciguang",
+            "width": 1,
+            "height": 1,
+            "x": -0.5,
+            "y": 0.5
+          }
+        },
+        "5": {
+          "baozha_wb": {
+            "name": "baozha_wb",
+            "width": 212,
+            "height": 117,
+            "x": 11.49,
+            "y": -6
+          }
+        },
+        "6": {
+          "baozha_wb": {
+            "name": "baozha_wb",
+            "width": 212,
+            "height": 117,
+            "x": 11.49,
+            "y": -6
+          }
+        }
+      }
+    },
+    "animations": {
+      "baozha": {
+        "bones": {
+          "1": {
+            "translate": [
+              {
+                "time": 0
+              },
+              {
+                "time": 0.0167,
+                "y": -0.05
+              },
+              {
+                "time": 0.0334,
+                "x": 1,
+                "y": -1.05
+              },
+              {
+                "time": 0.1167,
+                "x": -3,
+                "y": 83.9
+              },
+              {
+                "time": 0.1334,
+                "x": -3,
+                "y": 94.9
+              },
+              {
+                "time": 0.1501,
+                "x": 1,
+                "y": 96.9
+              },
+              {
+                "time": 0.1668,
+                "x": 1,
+                "y": 102.9
+              },
+              {
+                "time": 0.1835,
+                "x": 6,
+                "y": 124.9
+              },
+              {
+                "time": 0.2002,
+                "x": 2,
+                "y": 113.95
+              },
+              {
+                "time": 0.2169,
+                "y": 132.95
+              },
+              {
+                "time": 0.2336,
+                "x": -6,
+                "y": 132.9
+              },
+              {
+                "time": 0.2503,
+                "x": 1,
+                "y": -1.05
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.0333,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.1166,
+                "x": 0.86,
+                "y": 0.86
+              },
+              {
+                "time": 0.1333,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "2": {
+            "translate": [
+              {
+                "time": 0
+              },
+              {
+                "time": 0.1333
+              },
+              {
+                "time": 0.15,
+                "x": 1,
+                "y": -1
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.1333,
+                "x": 6.64,
+                "y": 6.64
+              },
+              {
+                "time": 0.15,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "3": {
+            "translate": [
+              {
+                "time": 0
+              },
+              {
+                "time": 0.0333,
+                "x": 5,
+                "y": 9
+              },
+              {
+                "time": 0.05,
+                "x": 5,
+                "y": 13
+              },
+              {
+                "time": 0.0667,
+                "y": 14.95
+              },
+              {
+                "time": 0.0834,
+                "y": 14.95
+              },
+              {
+                "time": 0.1001,
+                "x": -3,
+                "y": 18.95
+              },
+              {
+                "time": 0.1168
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.0333,
+                "x": 1.3,
+                "y": 1.3
+              },
+              {
+                "time": 0.05,
+                "x": 1.72,
+                "y": 1.72
+              },
+              {
+                "time": 0.0667,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.0834,
+                "x": 1.29,
+                "y": 1.29
+              },
+              {
+                "time": 0.1001,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "4": {
+            "translate": [
+              {
+                "time": 0
+              },
+              {
+                "time": 0.15,
+                "y": 97.95
+              },
+              {
+                "time": 0.2167,
+                "y": 99
+              },
+              {
+                "time": 0.2334,
+                "x": 1,
+                "y": -1
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.15,
+                "x": 7.11,
+                "y": 7.11
+              },
+              {
+                "time": 0.2167,
+                "x": 7.11,
+                "y": 7.11
+              },
+              {
+                "time": 0.2334,
+                "x": 5.26,
+                "y": 5.26
+              }
+            ]
+          },
+          "5": {
+            "translate": [
+              {
+                "time": 0
+              },
+              {
+                "time": 0.1167,
+                "x": 5,
+                "y": 40.95
+              },
+              {
+                "time": 0.2,
+                "x": 5,
+                "y": 40.95
+              },
+              {
+                "time": 0.2833,
+                "x": 6,
+                "y": 40.95
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.1167,
+                "x": 0.54,
+                "y": 0.54
+              },
+              {
+                "time": 0.1667,
+                "x": 0.85,
+                "y": 0.85
+              },
+              {
+                "time": 0.2,
+                "x": 0.67,
+                "y": 0.67
+              },
+              {
+                "time": 0.2833,
+                "x": 0.86,
+                "y": 0.86
+              },
+              {
+                "time": 0.4166,
+                "x": 0.86,
+                "y": 0.86
+              },
+              {
+                "time": 0.5999,
+                "x": 0.7,
+                "y": 0.7
+              }
+            ]
+          },
+          "6": {
+            "translate": [
+              {
+                "time": 0
+              },
+              {
+                "time": 0.1333,
+                "x": 5,
+                "y": 40.95
+              },
+              {
+                "time": 0.3666,
+                "x": 5,
+                "y": 40.95
+              },
+              {
+                "time": 0.3833
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.1333,
+                "x": 0.7,
+                "y": 0.7
+              },
+              {
+                "time": 0.15,
+                "x": 0.9,
+                "y": 0.9
+              },
+              {
+                "time": 0.3667,
+                "x": 1.69,
+                "y": 1.69
+              },
+              {
+                "time": 0.3834,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          }
+        },
+        "slots": {
+          "1": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "behit_gaobao_a_01"
+              },
+              {
+                "time": 0.0167,
+                "name": "behit_gaobao_a_02"
+              },
+              {
+                "time": 0.0334,
+                "name": ""
+              },
+              {
+                "time": 0.1167,
+                "name": "behit_gaobao_a_08"
+              },
+              {
+                "time": 0.15,
+                "name": "behit_gaobao_a_09"
+              },
+              {
+                "time": 0.1667,
+                "name": "behit_gaobao_a_10"
+              },
+              {
+                "time": 0.1834,
+                "name": "behit_gaobao_a_11"
+              },
+              {
+                "time": 0.2001,
+                "name": "behit_gaobao_a_12"
+              },
+              {
+                "time": 0.2168,
+                "name": "behit_gaobao_a_13"
+              },
+              {
+                "time": 0.2335,
+                "name": "behit_gaobao_a_14"
+              },
+              {
+                "time": 0.2502,
+                "name": ""
+              }
+            ]
+          },
+          "2": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "bujian1"
+              },
+              {
+                "time": 0.15,
+                "name": ""
+              }
+            ],
+            "color": [
+              {
+                "time": 0,
+                "color": "FFFFFFFF"
+              },
+              {
+                "time": 0.1333,
+                "color": "FCFCFC36"
+              },
+              {
+                "time": 0.15,
+                "color": "FFFFFFFF"
+              }
+            ]
+          },
+          "3": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": ""
+              },
+              {
+                "time": 0.0333,
+                "name": "xiaoguang"
+              },
+              {
+                "time": 0.0666,
+                "name": "xiaoguang2"
+              },
+              {
+                "time": 0.0999,
+                "name": "xiaoguang3"
+              },
+              {
+                "time": 0.1166,
+                "name": ""
+              }
+            ]
+          },
+          "4": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "ciguang"
+              },
+              {
+                "time": 0.2333,
+                "name": ""
+              }
+            ],
+            "color": [
+              {
+                "time": 0,
+                "color": "FFFFFFFF"
+              },
+              {
+                "time": 0.15,
+                "color": "FFFFFFFF"
+              },
+              {
+                "time": 0.2167,
+                "color": "FCFCFC00"
+              },
+              {
+                "time": 0.2334,
+                "color": "FFFFFFFF"
+              }
+            ]
+          },
+          "5": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": ""
+              },
+              {
+                "time": 0.1167,
+                "name": "baozha_wb"
+              }
+            ],
+            "color": [
+              {
+                "time": 0,
+                "color": "FFFFFFFF"
+              },
+              {
+                "time": 0.1167,
+                "color": "FCFCFC78"
+              },
+              {
+                "time": 0.1667,
+                "color": "FFFFFFFF"
+              },
+              {
+                "time": 0.4167,
+                "color": "FFFFFFFF"
+              },
+              {
+                "time": 0.6,
+                "color": "FCFCFC00"
+              }
+            ]
+          },
+          "6": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": ""
+              },
+              {
+                "time": 0.1333,
+                "name": "baozha_wb"
+              },
+              {
+                "time": 0.3833,
+                "name": ""
+              }
+            ],
+            "color": [
+              {
+                "time": 0,
+                "color": "FFFFFFFF"
+              },
+              {
+                "time": 0.1333,
+                "color": "FCFCFC0F"
+              },
+              {
+                "time": 0.15,
+                "color": "FCFCFCB5"
+              },
+              {
+                "time": 0.3667,
+                "color": "FCFCFC0A"
+              },
+              {
+                "time": 0.3834,
+                "color": "FFFFFFFF"
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nbaozha.png\r\nsize: 1024,1024\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nciguang\r\n  rotate: false\r\n  xy: 302, 260\r\n  size: 1, 1\r\n  orig: 1, 1\r\n  offset: 0, 0\r\n  index: -1\r\nbehit_gaobao_a_01\r\n  rotate: false\r\n  xy: 898, 97\r\n  size: 82, 69\r\n  orig: 83, 73\r\n  offset: 0, 1\r\n  index: -1\r\nbehit_gaobao_a_13\r\n  rotate: false\r\n  xy: 299, 260\r\n  size: 1, 1\r\n  orig: 1, 1\r\n  offset: 0, 0\r\n  index: -1\r\nbehit_gaobao_a_09\r\n  rotate: false\r\n  xy: 593, 1\r\n  size: 303, 241\r\n  orig: 378, 266\r\n  offset: 45, 7\r\n  index: -1\r\nbehit_gaobao_a_02\r\n  rotate: false\r\n  xy: 861, 244\r\n  size: 137, 126\r\n  orig: 137, 127\r\n  offset: 0, 0\r\n  index: -1\r\nbehit_gaobao_a_10\r\n  rotate: false\r\n  xy: 593, 244\r\n  size: 266, 252\r\n  orig: 304, 260\r\n  offset: 21, 5\r\n  index: -1\r\nbehit_gaobao_a_11\r\n  rotate: false\r\n  xy: 1, 1\r\n  size: 290, 300\r\n  orig: 382, 309\r\n  offset: 40, 9\r\n  index: -1\r\nbehit_gaobao_a_08\r\n  rotate: false\r\n  xy: 293, 1\r\n  size: 298, 257\r\n  orig: 308, 258\r\n  offset: 5, 1\r\n  index: -1\r\nbehit_gaobao_a_14\r\n  rotate: false\r\n  xy: 296, 260\r\n  size: 1, 1\r\n  orig: 1, 1\r\n  offset: 0, 0\r\n  index: -1\r\nbehit_gaobao_a_12\r\n  rotate: false\r\n  xy: 293, 260\r\n  size: 1, 1\r\n  orig: 1, 1\r\n  offset: 0, 0\r\n  index: -1\r\nxiaoguang\r\n  rotate: false\r\n  xy: 898, 1\r\n  size: 88, 94\r\n  orig: 89, 95\r\n  offset: 0, 0\r\n  index: -1\r\nxiaoguang2\r\n  rotate: false\r\n  xy: 308, 260\r\n  size: 228, 207\r\n  orig: 228, 207\r\n  offset: 0, 0\r\n  index: -1\r\nxiaoguang3\r\n  rotate: false\r\n  xy: 1, 303\r\n  size: 305, 277\r\n  orig: 305, 277\r\n  offset: 0, 0\r\n  index: -1\r\nbujian1\r\n  rotate: false\r\n  xy: 898, 168\r\n  size: 99, 36\r\n  orig: 101, 36\r\n  offset: 0, 0\r\n  index: -1\r\nbaozha_wb\r\n  rotate: false\r\n  xy: 308, 469\r\n  size: 212, 117\r\n  orig: 212, 117\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "983Cc5ykdO5ZRf89WRMWtQ"
+    }
+  ],
+  "textureNames": [
+    "baozha.png"
+  ]
+}

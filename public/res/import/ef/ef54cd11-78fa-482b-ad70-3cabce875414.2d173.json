@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tonghuashun",
+    "texture": "b25H9ncYpLrYxNxKSWPDQI",
+    "rect": [
+      1,
+      1,
+      236,
+      167
+    ],
+    "offset": [
+      -9,
+      43.5
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

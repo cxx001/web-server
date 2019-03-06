@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jingbaodeng",
+    "texture": "dcHsZDIgdGm5KeE307A4D3",
+    "rect": [
+      1,
+      1,
+      100,
+      159
+    ],
+    "offset": [
+      -13,
+      47.5
+    ],
+    "originalSize": [
+      128,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

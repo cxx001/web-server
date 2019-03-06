@@ -1,0 +1,142 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "sanshun",
+  "_native": "raw-skeleton.json",
+  "_skeletonJson": {
+    "skeleton": {
+      "width": 169,
+      "height": 81,
+      "fps": 60,
+      "spine": "3.6.0",
+      "hash": " ",
+      "name": "armatureName"
+    },
+    "bones": [
+      {
+        "inheritScale": false,
+        "x": -36.85,
+        "y": 19.4,
+        "scaleX": 0.51,
+        "scaleY": 0.51,
+        "name": "鍥惧眰 1",
+        "transform": "noScale"
+      }
+    ],
+    "slots": [
+      {
+        "name": "鍥惧眰 1",
+        "bone": "鍥惧眰 1",
+        "attachment": "sanshun-1"
+      }
+    ],
+    "skins": {
+      "default": {
+        "鍥惧眰 1": {
+          "sanshun-1": {
+            "name": "sanshun-1",
+            "width": 169,
+            "height": 81,
+            "x": 84.5,
+            "y": -40.5
+          }
+        }
+      }
+    },
+    "animations": {
+      "sanshun": {
+        "bones": {
+          "鍥惧眰 1": {
+            "translate": [
+              {
+                "time": 0
+              },
+              {
+                "time": 0.1167,
+                "x": -45.55,
+                "y": 24
+              },
+              {
+                "time": 0.2,
+                "x": -36.05,
+                "y": 19
+              },
+              {
+                "time": 0.2167,
+                "x": -24.15,
+                "y": 19
+              },
+              {
+                "time": 0.55,
+                "x": 213.95,
+                "y": 19
+              },
+              {
+                "time": 0.7167,
+                "x": 304.65,
+                "y": 6
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.1167,
+                "x": 2.22,
+                "y": 2.22
+              },
+              {
+                "time": 0.2,
+                "x": 1.96,
+                "y": 1.96
+              },
+              {
+                "time": 0.55,
+                "x": 1.96,
+                "y": 1.96
+              },
+              {
+                "time": 0.7167,
+                "x": 1.29,
+                "y": 1.29
+              }
+            ]
+          }
+        },
+        "slots": {
+          "鍥惧眰 1": {
+            "color": [
+              {
+                "time": 0,
+                "color": "FCFCFC14"
+              },
+              {
+                "time": 0.1167,
+                "color": "FFFFFFFF"
+              },
+              {
+                "time": 0.55,
+                "color": "FFFFFFFF"
+              },
+              {
+                "time": 0.7167,
+                "color": "FCFCFC00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nsanshun.png\r\nsize: 256,128\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nsanshun-1\r\n  rotate: false\r\n  xy: 1, 1\r\n  size: 169, 81\r\n  orig: 169, 81\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "54Xv01g6tCeqsKZ1yTyH+E"
+    }
+  ],
+  "textureNames": [
+    "sanshun.png"
+  ]
+}

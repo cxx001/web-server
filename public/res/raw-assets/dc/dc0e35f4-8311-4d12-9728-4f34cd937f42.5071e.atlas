@@ -1,0 +1,104 @@
+
+san-sandaier.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+san
+  rotate: false
+  xy: 1, 341
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+er
+  rotate: false
+  xy: 256, 142
+  size: 84, 74
+  orig: 84, 74
+  offset: 0, 0
+  index: -1
+dai
+  rotate: false
+  xy: 122, 335
+  size: 84, 82
+  orig: 84, 82
+  offset: 0, 0
+  index: -1
+saidaier_11
+  rotate: false
+  xy: 1, 271
+  size: 119, 68
+  orig: 165, 190
+  offset: 19, 46
+  index: -1
+saidaier_7
+  rotate: false
+  xy: 168, 73
+  size: 127, 67
+  orig: 165, 190
+  offset: 9, 53
+  index: -1
+saidaier_8
+  rotate: false
+  xy: 168, 1
+  size: 127, 70
+  orig: 165, 190
+  offset: 9, 51
+  index: -1
+saidaier_1
+  rotate: false
+  xy: 1, 1
+  size: 165, 190
+  orig: 165, 190
+  offset: 0, 0
+  index: -1
+saidaier_5
+  rotate: false
+  xy: 254, 268
+  size: 125, 62
+  orig: 165, 190
+  offset: 10, 56
+  index: -1
+saidaier_6
+  rotate: false
+  xy: 126, 268
+  size: 126, 65
+  orig: 165, 190
+  offset: 10, 54
+  index: -1
+saidaier_10
+  rotate: false
+  xy: 1, 193
+  size: 123, 76
+  orig: 165, 190
+  offset: 13, 47
+  index: -1
+saidaier_4
+  rotate: false
+  xy: 381, 268
+  size: 124, 60
+  orig: 165, 190
+  offset: 11, 57
+  index: -1
+saidaier_2
+  rotate: false
+  xy: 254, 332
+  size: 122, 57
+  orig: 165, 190
+  offset: 12, 59
+  index: -1
+saidaier_3
+  rotate: false
+  xy: 381, 330
+  size: 123, 59
+  orig: 165, 190
+  offset: 11, 58
+  index: -1
+saidaier_9
+  rotate: false
+  xy: 126, 193
+  size: 128, 73
+  orig: 165, 190
+  offset: 9, 49
+  index: -1

@@ -1,0 +1,41 @@
+
+tonghuashun.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tonghuashuntong
+  rotate: false
+  xy: 1, 1
+  size: 88, 83
+  orig: 88, 83
+  offset: 0, 0
+  index: -1
+tonghua-shun
+  rotate: false
+  xy: 1, 87
+  size: 89, 81
+  orig: 89, 81
+  offset: 0, 0
+  index: -1
+tonghuashun-hua-1
+  rotate: false
+  xy: 91, 1
+  size: 86, 84
+  orig: 86, 84
+  offset: 0, 0
+  index: -1
+tonghuashun-xin
+  rotate: false
+  xy: 179, 60
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+tonghaushun-xing
+  rotate: false
+  xy: 179, 1
+  size: 58, 57
+  orig: 58, 57
+  offset: 0, 0
+  index: -1

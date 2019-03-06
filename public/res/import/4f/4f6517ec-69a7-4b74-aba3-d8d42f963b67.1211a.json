@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "blurgirl",
+    "texture": "ecFY8F/INGGrfSQqsAt9xp",
+    "rect": [
+      1,
+      2,
+      810,
+      456
+    ],
+    "offset": [
+      -106,
+      26
+    ],
+    "originalSize": [
+      1024,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

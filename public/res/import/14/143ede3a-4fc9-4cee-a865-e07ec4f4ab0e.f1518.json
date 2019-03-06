@@ -1,0 +1,938 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "fei-feiji",
+  "_native": "raw-skeleton.json",
+  "_skeletonJson": {
+    "skeleton": {
+      "width": 300,
+      "height": 71.94,
+      "fps": 60,
+      "spine": "3.6.0",
+      "hash": " ",
+      "name": "armatureName"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "inheritScale": false,
+        "x": -288.95,
+        "y": -52.75,
+        "shearY": -180,
+        "scaleX": 1.5,
+        "scaleY": 1.5,
+        "name": "6",
+        "parent": "root",
+        "transform": "noScale"
+      },
+      {
+        "inheritScale": false,
+        "x": -180.95,
+        "y": 25.15,
+        "scaleX": 0.71,
+        "scaleY": 0.71,
+        "name": "鍥惧眰 2",
+        "parent": "root",
+        "transform": "noScale"
+      },
+      {
+        "inheritScale": false,
+        "x": -288.95,
+        "y": 44.75,
+        "scaleX": 1.5,
+        "scaleY": 1.5,
+        "name": "3",
+        "parent": "root",
+        "transform": "noScale"
+      }
+    ],
+    "slots": [
+      {
+        "name": "6",
+        "bone": "6",
+        "attachment": "fly_sg1"
+      },
+      {
+        "name": "鍥惧眰 2",
+        "bone": "鍥惧眰 2",
+        "attachment": "feiji"
+      },
+      {
+        "name": "3",
+        "bone": "3",
+        "attachment": "fly_sg1"
+      }
+    ],
+    "skins": {
+      "default": {
+        "3": {
+          "fly_sg1": {
+            "name": "fly_sg1",
+            "width": 10,
+            "height": 9,
+            "x": 150,
+            "y": -32.5
+          },
+          "fly_sg2": {
+            "name": "fly_sg2",
+            "width": 18,
+            "height": 16,
+            "x": 150,
+            "y": -32.5
+          },
+          "fly_sg3": {
+            "name": "fly_sg3",
+            "width": 26,
+            "height": 19,
+            "x": 150,
+            "y": -32.5
+          },
+          "fly_sg4": {
+            "name": "fly_sg4",
+            "width": 102,
+            "height": 50,
+            "x": 150,
+            "y": -32.5
+          },
+          "fly_sg5": {
+            "name": "fly_sg5",
+            "width": 164,
+            "height": 58,
+            "x": 150,
+            "y": -32.5
+          },
+          "fly_sg6": {
+            "name": "fly_sg6",
+            "width": 195,
+            "height": 58,
+            "x": 150,
+            "y": -32.5
+          },
+          "fly_sg7": {
+            "name": "fly_sg7",
+            "width": 196,
+            "height": 55,
+            "x": 150,
+            "y": -32.5
+          },
+          "fly_sg8": {
+            "name": "fly_sg8",
+            "width": 208,
+            "height": 52,
+            "x": 150,
+            "y": -32.5
+          },
+          "fly_sg9": {
+            "name": "fly_sg9",
+            "width": 217,
+            "height": 51,
+            "x": 150,
+            "y": -32.5
+          },
+          "fly_sg10": {
+            "name": "fly_sg10",
+            "width": 229,
+            "height": 49,
+            "x": 150,
+            "y": -32.5
+          },
+          "fly_sg11": {
+            "name": "fly_sg11",
+            "width": 222,
+            "height": 48,
+            "x": 150,
+            "y": -32.5
+          },
+          "fly_sg12": {
+            "name": "fly_sg12",
+            "width": 222,
+            "height": 50,
+            "x": 150,
+            "y": -32.5
+          },
+          "fly_sg13": {
+            "name": "fly_sg13",
+            "width": 229,
+            "height": 51,
+            "x": 150,
+            "y": -32.5
+          },
+          "fly_sg14": {
+            "name": "fly_sg14",
+            "width": 233,
+            "height": 52,
+            "x": 150,
+            "y": -32.5
+          },
+          "fly_sg15": {
+            "name": "fly_sg15",
+            "width": 230,
+            "height": 55,
+            "x": 150,
+            "y": -32.5
+          },
+          "fly_sg16": {
+            "name": "fly_sg16",
+            "width": 232,
+            "height": 56,
+            "x": 150,
+            "y": -32.5
+          },
+          "fly_sg17": {
+            "name": "fly_sg17",
+            "width": 146,
+            "height": 56,
+            "x": 150,
+            "y": -32.5
+          },
+          "fly_sg18": {
+            "name": "fly_sg18",
+            "width": 124,
+            "height": 54,
+            "x": 150,
+            "y": -32.5
+          },
+          "fly_sg19": {
+            "name": "fly_sg19",
+            "width": 104,
+            "height": 54,
+            "x": 150,
+            "y": -32.5
+          },
+          "fly_sg20": {
+            "name": "fly_sg20",
+            "width": 96,
+            "height": 52,
+            "x": 150,
+            "y": -32.5
+          },
+          "fly_sg21": {
+            "name": "fly_sg21",
+            "width": 84,
+            "height": 54,
+            "x": 150,
+            "y": -32.5
+          },
+          "fly_sg22": {
+            "name": "fly_sg22",
+            "width": 74,
+            "height": 54,
+            "x": 150,
+            "y": -32.5
+          },
+          "fly_sg23": {
+            "name": "fly_sg23",
+            "width": 60,
+            "height": 53,
+            "x": 150,
+            "y": -32.5
+          },
+          "fly_sg24": {
+            "name": "fly_sg24",
+            "width": 56,
+            "height": 52,
+            "x": 150,
+            "y": -32.5
+          },
+          "fly_sg25": {
+            "name": "fly_sg25",
+            "width": 43,
+            "height": 52,
+            "x": 150,
+            "y": -32.5
+          },
+          "fly_sg26": {
+            "name": "fly_sg26",
+            "width": 34,
+            "height": 50,
+            "x": 150,
+            "y": -32.5
+          },
+          "fly_sg27": {
+            "name": "fly_sg27",
+            "width": 30,
+            "height": 39,
+            "x": 150,
+            "y": -32.5
+          },
+          "fly_sg28": {
+            "name": "fly_sg28",
+            "width": 300,
+            "height": 65,
+            "x": 150,
+            "y": -32.5
+          },
+          "fly_sg29": {
+            "name": "fly_sg29",
+            "width": 300,
+            "height": 65,
+            "x": 150,
+            "y": -32.5
+          },
+          "fly_sg30": {
+            "name": "fly_sg30",
+            "width": 300,
+            "height": 65,
+            "x": 150,
+            "y": -32.5
+          },
+          "fly_sg31": {
+            "name": "fly_sg31",
+            "width": 300,
+            "height": 65,
+            "x": 150,
+            "y": -32.5
+          }
+        },
+        "6": {
+          "fly_sg1": {
+            "name": "fly_sg1",
+            "width": 10,
+            "height": 9,
+            "x": 150,
+            "y": -32.5
+          },
+          "fly_sg2": {
+            "name": "fly_sg2",
+            "width": 18,
+            "height": 16,
+            "x": 150,
+            "y": -32.5
+          },
+          "fly_sg3": {
+            "name": "fly_sg3",
+            "width": 26,
+            "height": 19,
+            "x": 150,
+            "y": -32.5
+          },
+          "fly_sg4": {
+            "name": "fly_sg4",
+            "width": 102,
+            "height": 50,
+            "x": 150,
+            "y": -32.5
+          },
+          "fly_sg5": {
+            "name": "fly_sg5",
+            "width": 164,
+            "height": 58,
+            "x": 150,
+            "y": -32.5
+          },
+          "fly_sg6": {
+            "name": "fly_sg6",
+            "width": 195,
+            "height": 58,
+            "x": 150,
+            "y": -32.5
+          },
+          "fly_sg7": {
+            "name": "fly_sg7",
+            "width": 196,
+            "height": 55,
+            "x": 150,
+            "y": -32.5
+          },
+          "fly_sg8": {
+            "name": "fly_sg8",
+            "width": 208,
+            "height": 52,
+            "x": 150,
+            "y": -32.5
+          },
+          "fly_sg9": {
+            "name": "fly_sg9",
+            "width": 217,
+            "height": 51,
+            "x": 150,
+            "y": -32.5
+          },
+          "fly_sg10": {
+            "name": "fly_sg10",
+            "width": 229,
+            "height": 49,
+            "x": 150,
+            "y": -32.5
+          },
+          "fly_sg11": {
+            "name": "fly_sg11",
+            "width": 222,
+            "height": 48,
+            "x": 150,
+            "y": -32.5
+          },
+          "fly_sg12": {
+            "name": "fly_sg12",
+            "width": 222,
+            "height": 50,
+            "x": 150,
+            "y": -32.5
+          },
+          "fly_sg13": {
+            "name": "fly_sg13",
+            "width": 229,
+            "height": 51,
+            "x": 150,
+            "y": -32.5
+          },
+          "fly_sg14": {
+            "name": "fly_sg14",
+            "width": 233,
+            "height": 52,
+            "x": 150,
+            "y": -32.5
+          },
+          "fly_sg15": {
+            "name": "fly_sg15",
+            "width": 230,
+            "height": 55,
+            "x": 150,
+            "y": -32.5
+          },
+          "fly_sg16": {
+            "name": "fly_sg16",
+            "width": 232,
+            "height": 56,
+            "x": 150,
+            "y": -32.5
+          },
+          "fly_sg17": {
+            "name": "fly_sg17",
+            "width": 146,
+            "height": 56,
+            "x": 150,
+            "y": -32.5
+          },
+          "fly_sg18": {
+            "name": "fly_sg18",
+            "width": 124,
+            "height": 54,
+            "x": 150,
+            "y": -32.5
+          },
+          "fly_sg19": {
+            "name": "fly_sg19",
+            "width": 104,
+            "height": 54,
+            "x": 150,
+            "y": -32.5
+          },
+          "fly_sg20": {
+            "name": "fly_sg20",
+            "width": 96,
+            "height": 52,
+            "x": 150,
+            "y": -32.5
+          },
+          "fly_sg21": {
+            "name": "fly_sg21",
+            "width": 84,
+            "height": 54,
+            "x": 150,
+            "y": -32.5
+          },
+          "fly_sg22": {
+            "name": "fly_sg22",
+            "width": 74,
+            "height": 54,
+            "x": 150,
+            "y": -32.5
+          },
+          "fly_sg23": {
+            "name": "fly_sg23",
+            "width": 60,
+            "height": 53,
+            "x": 150,
+            "y": -32.5
+          },
+          "fly_sg24": {
+            "name": "fly_sg24",
+            "width": 56,
+            "height": 52,
+            "x": 150,
+            "y": -32.5
+          },
+          "fly_sg25": {
+            "name": "fly_sg25",
+            "width": 43,
+            "height": 52,
+            "x": 150,
+            "y": -32.5
+          },
+          "fly_sg26": {
+            "name": "fly_sg26",
+            "width": 34,
+            "height": 50,
+            "x": 150,
+            "y": -32.5
+          },
+          "fly_sg27": {
+            "name": "fly_sg27",
+            "width": 30,
+            "height": 39,
+            "x": 150,
+            "y": -32.5
+          },
+          "fly_sg28": {
+            "name": "fly_sg28",
+            "width": 300,
+            "height": 65,
+            "x": 150,
+            "y": -32.5
+          },
+          "fly_sg29": {
+            "name": "fly_sg29",
+            "width": 300,
+            "height": 65,
+            "x": 150,
+            "y": -32.5
+          },
+          "fly_sg30": {
+            "name": "fly_sg30",
+            "width": 300,
+            "height": 65,
+            "x": 150,
+            "y": -32.5
+          },
+          "fly_sg31": {
+            "name": "fly_sg31",
+            "width": 300,
+            "height": 65,
+            "x": 150,
+            "y": -32.5
+          }
+        },
+        "鍥惧眰 2": {
+          "feiji": {
+            "name": "feiji",
+            "width": 144,
+            "height": 71,
+            "x": 72,
+            "y": -35.5
+          }
+        }
+      }
+    },
+    "animations": {
+      "plane": {
+        "bones": {
+          "3": {
+            "translate": [
+              {
+                "time": 0
+              },
+              {
+                "time": 0.55
+              },
+              {
+                "time": 0.5667,
+                "x": 288.95,
+                "y": -44.75
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.55,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.5667,
+                "x": 0.67,
+                "y": 0.67
+              }
+            ]
+          },
+          "6": {
+            "translate": [
+              {
+                "time": 0
+              },
+              {
+                "time": 0.55
+              },
+              {
+                "time": 0.5667,
+                "x": 288.95,
+                "y": 52.75
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.55,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.5667,
+                "x": 0.67,
+                "y": 0.67
+              }
+            ]
+          },
+          "鍥惧眰 2": {
+            "translate": [
+              {
+                "time": 0
+              },
+              {
+                "time": 0.0833,
+                "x": -34.7,
+                "y": 12
+              },
+              {
+                "time": 0.2,
+                "x": 105.3,
+                "y": 13
+              },
+              {
+                "time": 0.3167,
+                "x": 185.3,
+                "y": 13
+              },
+              {
+                "time": 0.4334,
+                "x": 225.3,
+                "y": 13
+              },
+              {
+                "time": 0.5167,
+                "x": 277,
+                "y": 2
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.0833,
+                "x": 1.41,
+                "y": 1.41
+              },
+              {
+                "time": 0.4333,
+                "x": 1.41,
+                "y": 1.41
+              },
+              {
+                "time": 0.5166,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          }
+        },
+        "slots": {
+          "3": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "fly_sg1"
+              },
+              {
+                "time": 0.0333,
+                "name": "fly_sg2"
+              },
+              {
+                "time": 0.0666,
+                "name": "fly_sg3"
+              },
+              {
+                "time": 0.0833,
+                "name": "fly_sg4"
+              },
+              {
+                "time": 0.1166,
+                "name": "fly_sg5"
+              },
+              {
+                "time": 0.1333,
+                "name": "fly_sg6"
+              },
+              {
+                "time": 0.15,
+                "name": "fly_sg7"
+              },
+              {
+                "time": 0.1667,
+                "name": "fly_sg8"
+              },
+              {
+                "time": 0.1834,
+                "name": "fly_sg9"
+              },
+              {
+                "time": 0.2001,
+                "name": "fly_sg10"
+              },
+              {
+                "time": 0.2168,
+                "name": "fly_sg11"
+              },
+              {
+                "time": 0.2335,
+                "name": "fly_sg12"
+              },
+              {
+                "time": 0.2502,
+                "name": "fly_sg13"
+              },
+              {
+                "time": 0.2669,
+                "name": "fly_sg14"
+              },
+              {
+                "time": 0.2836,
+                "name": "fly_sg15"
+              },
+              {
+                "time": 0.3003,
+                "name": "fly_sg16"
+              },
+              {
+                "time": 0.317,
+                "name": "fly_sg17"
+              },
+              {
+                "time": 0.3337,
+                "name": "fly_sg18"
+              },
+              {
+                "time": 0.3504,
+                "name": "fly_sg19"
+              },
+              {
+                "time": 0.3671,
+                "name": "fly_sg20"
+              },
+              {
+                "time": 0.3838,
+                "name": "fly_sg21"
+              },
+              {
+                "time": 0.4005,
+                "name": "fly_sg22"
+              },
+              {
+                "time": 0.4172,
+                "name": "fly_sg23"
+              },
+              {
+                "time": 0.4339,
+                "name": "fly_sg24"
+              },
+              {
+                "time": 0.4506,
+                "name": "fly_sg25"
+              },
+              {
+                "time": 0.4673,
+                "name": "fly_sg26"
+              },
+              {
+                "time": 0.484,
+                "name": "fly_sg27"
+              },
+              {
+                "time": 0.5007,
+                "name": "fly_sg28"
+              },
+              {
+                "time": 0.5174,
+                "name": "fly_sg29"
+              },
+              {
+                "time": 0.5341,
+                "name": "fly_sg30"
+              },
+              {
+                "time": 0.5508,
+                "name": "fly_sg31"
+              },
+              {
+                "time": 0.5675,
+                "name": ""
+              }
+            ]
+          },
+          "6": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "fly_sg1"
+              },
+              {
+                "time": 0.0333,
+                "name": "fly_sg2"
+              },
+              {
+                "time": 0.0666,
+                "name": "fly_sg3"
+              },
+              {
+                "time": 0.0999,
+                "name": "fly_sg4"
+              },
+              {
+                "time": 0.1166,
+                "name": "fly_sg5"
+              },
+              {
+                "time": 0.1333,
+                "name": "fly_sg6"
+              },
+              {
+                "time": 0.15,
+                "name": "fly_sg7"
+              },
+              {
+                "time": 0.1667,
+                "name": "fly_sg8"
+              },
+              {
+                "time": 0.1834,
+                "name": "fly_sg9"
+              },
+              {
+                "time": 0.2001,
+                "name": "fly_sg10"
+              },
+              {
+                "time": 0.2168,
+                "name": "fly_sg11"
+              },
+              {
+                "time": 0.2335,
+                "name": "fly_sg12"
+              },
+              {
+                "time": 0.2502,
+                "name": "fly_sg13"
+              },
+              {
+                "time": 0.2669,
+                "name": "fly_sg14"
+              },
+              {
+                "time": 0.2836,
+                "name": "fly_sg15"
+              },
+              {
+                "time": 0.3003,
+                "name": "fly_sg16"
+              },
+              {
+                "time": 0.317,
+                "name": "fly_sg17"
+              },
+              {
+                "time": 0.3337,
+                "name": "fly_sg18"
+              },
+              {
+                "time": 0.3504,
+                "name": "fly_sg19"
+              },
+              {
+                "time": 0.3671,
+                "name": "fly_sg20"
+              },
+              {
+                "time": 0.3838,
+                "name": "fly_sg21"
+              },
+              {
+                "time": 0.4005,
+                "name": "fly_sg22"
+              },
+              {
+                "time": 0.4172,
+                "name": "fly_sg23"
+              },
+              {
+                "time": 0.4339,
+                "name": "fly_sg24"
+              },
+              {
+                "time": 0.4506,
+                "name": "fly_sg25"
+              },
+              {
+                "time": 0.4673,
+                "name": "fly_sg26"
+              },
+              {
+                "time": 0.484,
+                "name": "fly_sg27"
+              },
+              {
+                "time": 0.5007,
+                "name": "fly_sg28"
+              },
+              {
+                "time": 0.5174,
+                "name": "fly_sg29"
+              },
+              {
+                "time": 0.5341,
+                "name": "fly_sg30"
+              },
+              {
+                "time": 0.5508,
+                "name": "fly_sg31"
+              },
+              {
+                "time": 0.5675,
+                "name": ""
+              }
+            ]
+          },
+          "鍥惧眰 2": {
+            "color": [
+              {
+                "time": 0,
+                "color": "FCFCFC17"
+              },
+              {
+                "time": 0.0833,
+                "color": "FFFFFFFF"
+              },
+              {
+                "time": 0.4333,
+                "color": "FFFFFFFF"
+              },
+              {
+                "time": 0.5166,
+                "color": "FCFCFC00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nfei-feiji.png\r\nsize: 512,1024\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nfly_sg9\r\n  rotate: false\r\n  xy: 1, 431\r\n  size: 217, 51\r\n  orig: 300, 65\r\n  offset: 11, 8\r\n  index: -1\r\nfly_sg8\r\n  rotate: false\r\n  xy: 303, 61\r\n  size: 208, 52\r\n  orig: 300, 65\r\n  offset: 11, 5\r\n  index: -1\r\nfly_sg7\r\n  rotate: false\r\n  xy: 303, 115\r\n  size: 196, 55\r\n  orig: 300, 65\r\n  offset: 13, 4\r\n  index: -1\r\nfly_sg22\r\n  rotate: false\r\n  xy: 203, 542\r\n  size: 74, 54\r\n  orig: 300, 65\r\n  offset: 179, 8\r\n  index: -1\r\nfly_sg6\r\n  rotate: false\r\n  xy: 303, 1\r\n  size: 195, 58\r\n  orig: 300, 65\r\n  offset: 16, 4\r\n  index: -1\r\nfly_sg21\r\n  rotate: false\r\n  xy: 1, 594\r\n  size: 84, 54\r\n  orig: 300, 65\r\n  offset: 168, 7\r\n  index: -1\r\nfly_sg5\r\n  rotate: false\r\n  xy: 220, 482\r\n  size: 164, 58\r\n  orig: 300, 65\r\n  offset: 46, 3\r\n  index: -1\r\nfly_sg20\r\n  rotate: false\r\n  xy: 105, 542\r\n  size: 96, 52\r\n  orig: 300, 65\r\n  offset: 156, 8\r\n  index: -1\r\nfly_sg4\r\n  rotate: false\r\n  xy: 1, 542\r\n  size: 102, 50\r\n  orig: 300, 65\r\n  offset: 98, 10\r\n  index: -1\r\nfly_sg31\r\n  rotate: false\r\n  xy: 1, 1\r\n  size: 300, 65\r\n  orig: 300, 65\r\n  offset: 0, 0\r\n  index: -1\r\nfly_sg3\r\n  rotate: false\r\n  xy: 470, 321\r\n  size: 26, 19\r\n  orig: 300, 65\r\n  offset: 100, 25\r\n  index: -1\r\nfly_sg19\r\n  rotate: false\r\n  xy: 386, 538\r\n  size: 104, 54\r\n  orig: 300, 65\r\n  offset: 147, 7\r\n  index: -1\r\nfly_sg2\r\n  rotate: false\r\n  xy: 470, 342\r\n  size: 18, 16\r\n  orig: 300, 65\r\n  offset: 102, 26\r\n  index: -1\r\nfly_sg30\r\n  rotate: false\r\n  xy: 1, 202\r\n  size: 300, 65\r\n  orig: 300, 65\r\n  offset: 0, 0\r\n  index: -1\r\nfly_sg1\r\n  rotate: false\r\n  xy: 501, 115\r\n  size: 10, 9\r\n  orig: 300, 65\r\n  offset: 103, 28\r\n  index: -1\r\nfly_sg18\r\n  rotate: false\r\n  xy: 386, 482\r\n  size: 124, 54\r\n  orig: 300, 65\r\n  offset: 126, 8\r\n  index: -1\r\nfly_sg17\r\n  rotate: false\r\n  xy: 1, 484\r\n  size: 146, 56\r\n  orig: 300, 65\r\n  offset: 104, 8\r\n  index: -1\r\nfly_sg29\r\n  rotate: false\r\n  xy: 1, 135\r\n  size: 300, 65\r\n  orig: 300, 65\r\n  offset: 0, 0\r\n  index: -1\r\nfly_sg16\r\n  rotate: false\r\n  xy: 1, 269\r\n  size: 232, 56\r\n  orig: 300, 65\r\n  offset: 17, 8\r\n  index: -1\r\nfly_sg28\r\n  rotate: false\r\n  xy: 1, 68\r\n  size: 300, 65\r\n  orig: 300, 65\r\n  offset: 0, 0\r\n  index: -1\r\nfly_sg15\r\n  rotate: false\r\n  xy: 235, 269\r\n  size: 230, 55\r\n  orig: 300, 65\r\n  offset: 20, 9\r\n  index: -1\r\nfly_sg14\r\n  rotate: false\r\n  xy: 235, 326\r\n  size: 233, 52\r\n  orig: 300, 65\r\n  offset: 17, 11\r\n  index: -1\r\nfly_sg27\r\n  rotate: false\r\n  xy: 467, 280\r\n  size: 30, 39\r\n  orig: 300, 65\r\n  offset: 223, 12\r\n  index: -1\r\nfly_sg13\r\n  rotate: false\r\n  xy: 1, 327\r\n  size: 229, 51\r\n  orig: 300, 65\r\n  offset: 20, 11\r\n  index: -1\r\nfly_sg26\r\n  rotate: false\r\n  xy: 456, 380\r\n  size: 34, 50\r\n  orig: 300, 65\r\n  offset: 221, 10\r\n  index: -1\r\nfly_sg12\r\n  rotate: false\r\n  xy: 232, 380\r\n  size: 222, 50\r\n  orig: 300, 65\r\n  offset: 19, 12\r\n  index: -1\r\nfly_sg25\r\n  rotate: false\r\n  xy: 467, 226\r\n  size: 43, 52\r\n  orig: 300, 65\r\n  offset: 212, 10\r\n  index: -1\r\nfly_sg11\r\n  rotate: false\r\n  xy: 220, 432\r\n  size: 222, 48\r\n  orig: 300, 65\r\n  offset: 12, 13\r\n  index: -1\r\nfly_sg24\r\n  rotate: false\r\n  xy: 449, 172\r\n  size: 56, 52\r\n  orig: 300, 65\r\n  offset: 198, 10\r\n  index: -1\r\nfly_sg10\r\n  rotate: false\r\n  xy: 1, 380\r\n  size: 229, 49\r\n  orig: 300, 65\r\n  offset: 9, 11\r\n  index: -1\r\nfly_sg23\r\n  rotate: false\r\n  xy: 149, 484\r\n  size: 60, 53\r\n  orig: 300, 65\r\n  offset: 194, 9\r\n  index: -1\r\nfeiji\r\n  rotate: false\r\n  xy: 303, 172\r\n  size: 144, 71\r\n  orig: 144, 71\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "1c6TCVB0ZBkZiVPBHOdNN6"
+    }
+  ],
+  "textureNames": [
+    "fei-feiji.png"
+  ]
+}

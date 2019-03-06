@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "homeactivity_shangxin",
+    "texture": "faC4s+8iFA3rPDSJ3os7C0",
+    "rect": [
+      2,
+      0,
+      62,
+      62
+    ],
+    "offset": [
+      1,
+      0
+    ],
+    "originalSize": [
+      64,
+      62
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

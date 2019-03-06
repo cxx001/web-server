@@ -1,0 +1,20 @@
+
+jingbaodeng.png
+size: 128,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jingbaodeng1
+  rotate: false
+  xy: 1, 102
+  size: 48, 58
+  orig: 100, 99
+  offset: 28, 15
+  index: -1
+jingbaodeng2
+  rotate: false
+  xy: 1, 1
+  size: 100, 99
+  orig: 100, 99
+  offset: 0, 0
+  index: -1

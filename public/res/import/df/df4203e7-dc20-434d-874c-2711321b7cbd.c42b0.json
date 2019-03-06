@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "woyingle",
+    "texture": "21iOq/4XxKBZMTGfsgmRTB",
+    "rect": [
+      1,
+      1,
+      872,
+      911
+    ],
+    "offset": [
+      -75,
+      55.5
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

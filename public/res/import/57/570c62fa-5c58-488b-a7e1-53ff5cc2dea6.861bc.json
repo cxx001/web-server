@@ -1,0 +1,503 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "shun-shunzi",
+  "_native": "raw-skeleton.json",
+  "_skeletonJson": {
+    "skeleton": {
+      "width": 545.45,
+      "height": 81,
+      "fps": 60,
+      "spine": "3.6.0",
+      "hash": " ",
+      "name": "armatureName"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "inheritScale": false,
+        "x": -291.45,
+        "y": -0.15,
+        "name": "wb_shunzi",
+        "parent": "root",
+        "transform": "noScale"
+      },
+      {
+        "inheritScale": false,
+        "name": "shunzi2",
+        "parent": "root",
+        "transform": "noScale"
+      }
+    ],
+    "slots": [
+      {
+        "name": "wb_shunzi",
+        "bone": "wb_shunzi",
+        "attachment": "wb_shunzi"
+      },
+      {
+        "name": "shunzi2",
+        "bone": "shunzi2",
+        "attachment": "yuanjian-shunzis_star1"
+      }
+    ],
+    "skins": {
+      "default": {
+        "wb_shunzi": {
+          "wb_shunzi": {
+            "name": "wb_shunzi",
+            "width": 152,
+            "height": 81,
+            "y": -39.5
+          }
+        },
+        "shunzi2": {
+          "yuanjian-shunzis_star1": {
+            "name": "yuanjian-shunzis_star1",
+            "width": 8,
+            "height": 7,
+            "x": 89,
+            "y": -26
+          },
+          "yuanjian-shunzisi_star2": {
+            "name": "yuanjian-shunzisi_star2",
+            "width": 11,
+            "height": 10,
+            "x": 89,
+            "y": -26
+          },
+          "yuanjian-shunzis_star3": {
+            "name": "yuanjian-shunzis_star3",
+            "width": 15,
+            "height": 12,
+            "x": 89,
+            "y": -26
+          },
+          "yuanjian-shunzis_star4": {
+            "name": "yuanjian-shunzis_star4",
+            "width": 18,
+            "height": 15,
+            "x": 89,
+            "y": -26
+          },
+          "yuanjian-shunzis_star5": {
+            "name": "yuanjian-shunzis_star5",
+            "width": 21,
+            "height": 16,
+            "x": 89,
+            "y": -26
+          },
+          "yuanjian-shunzis_star6": {
+            "name": "yuanjian-shunzis_star6",
+            "width": 31,
+            "height": 20,
+            "x": 89,
+            "y": -26
+          },
+          "yuanjian-shunzis_star7": {
+            "name": "yuanjian-shunzis_star7",
+            "width": 42,
+            "height": 25,
+            "x": 89,
+            "y": -26
+          },
+          "yuanjian-shunzis_star8": {
+            "name": "yuanjian-shunzis_star8",
+            "width": 55,
+            "height": 26,
+            "x": 89,
+            "y": -26
+          },
+          "yuanjian-shunzis_star9": {
+            "name": "yuanjian-shunzis_star9",
+            "width": 73,
+            "height": 26,
+            "x": 89,
+            "y": -26
+          },
+          "yuanjian-shunzis_star10": {
+            "name": "yuanjian-shunzis_star10",
+            "width": 82,
+            "height": 30,
+            "x": 89,
+            "y": -26
+          },
+          "yuanjian-shunzis_star11": {
+            "name": "yuanjian-shunzis_star11",
+            "width": 91,
+            "height": 32,
+            "x": 89,
+            "y": -26
+          },
+          "yuanjian-shunzis_star12": {
+            "name": "yuanjian-shunzis_star12",
+            "width": 98,
+            "height": 35,
+            "x": 89,
+            "y": -26
+          },
+          "yuanjian-shunzis_star13": {
+            "name": "yuanjian-shunzis_star13",
+            "width": 105,
+            "height": 35,
+            "x": 89,
+            "y": -26
+          },
+          "yuanjian-shunzis_star14": {
+            "name": "yuanjian-shunzis_star14",
+            "width": 113,
+            "height": 38,
+            "x": 89,
+            "y": -26
+          },
+          "yuanjian-shunzis_star15": {
+            "name": "yuanjian-shunzis_star15",
+            "width": 112,
+            "height": 40,
+            "x": 89,
+            "y": -26
+          },
+          "yuanjian-shunzis_star16": {
+            "name": "yuanjian-shunzis_star16",
+            "width": 115,
+            "height": 41,
+            "x": 89,
+            "y": -26
+          },
+          "yuanjian-shunzis_star17": {
+            "name": "yuanjian-shunzis_star17",
+            "width": 117,
+            "height": 41,
+            "x": 89,
+            "y": -26
+          },
+          "yuanjian-shunzis_star18": {
+            "name": "yuanjian-shunzis_star18",
+            "width": 117,
+            "height": 43,
+            "x": 89,
+            "y": -26
+          },
+          "yuanjian-shunzis_star19": {
+            "name": "yuanjian-shunzis_star19",
+            "width": 117,
+            "height": 43,
+            "x": 89,
+            "y": -26
+          },
+          "yuanjian-shunzis_star20": {
+            "name": "yuanjian-shunzis_star20",
+            "width": 116,
+            "height": 43,
+            "x": 89,
+            "y": -26
+          },
+          "yuanjian-shunzis_star21": {
+            "name": "yuanjian-shunzis_star21",
+            "width": 99,
+            "height": 42,
+            "x": 89,
+            "y": -26
+          },
+          "yuanjian-shunzis_star22": {
+            "name": "yuanjian-shunzis_star22",
+            "width": 82,
+            "height": 42,
+            "x": 89,
+            "y": -26
+          },
+          "yuanjian-shunzis_star23": {
+            "name": "yuanjian-shunzis_star23",
+            "width": 76,
+            "height": 42,
+            "x": 89,
+            "y": -26
+          },
+          "yuanjian-shunzis_star24": {
+            "name": "yuanjian-shunzis_star24",
+            "width": 67,
+            "height": 41,
+            "x": 89,
+            "y": -26
+          },
+          "yuanjian-shunzis_star25": {
+            "name": "yuanjian-shunzis_star25",
+            "width": 59,
+            "height": 43,
+            "x": 89,
+            "y": -26
+          },
+          "yuanjian-shunzis_star26": {
+            "name": "yuanjian-shunzis_star26",
+            "width": 47,
+            "height": 42,
+            "x": 89,
+            "y": -26
+          },
+          "yuanjian-shunzis_star28": {
+            "name": "yuanjian-shunzis_star28",
+            "width": 44,
+            "height": 40,
+            "x": 89,
+            "y": -26
+          },
+          "yuanjian-shunzis_star29": {
+            "name": "yuanjian-shunzis_star29",
+            "width": 26,
+            "height": 39,
+            "x": 89,
+            "y": -26
+          },
+          "yuanjian-shunzis_star30": {
+            "name": "yuanjian-shunzis_star30",
+            "width": 23,
+            "height": 31,
+            "x": 89,
+            "y": -26
+          },
+          "yuanjian-shunzis_star31": {
+            "name": "yuanjian-shunzis_star31",
+            "width": 23,
+            "height": 31,
+            "x": 89,
+            "y": -26
+          },
+          "yuanjian-shunzis_star32": {
+            "name": "yuanjian-shunzis_star32",
+            "width": 178,
+            "height": 52,
+            "x": 89,
+            "y": -26
+          },
+          "yuanjian-shunzis_star33": {
+            "name": "yuanjian-shunzis_star33",
+            "width": 178,
+            "height": 52,
+            "x": 89,
+            "y": -26
+          }
+        }
+      }
+    },
+    "animations": {
+      "shunzi": {
+        "bones": {
+          "shunzi2": {
+            "translate": [
+              {
+                "time": 0
+              },
+              {
+                "time": 0.0333,
+                "x": -194,
+                "y": 20.45
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.0333,
+                "x": 1.8,
+                "y": 1.8
+              }
+            ]
+          },
+          "wb_shunzi": {
+            "translate": [
+              {
+                "time": 0
+              },
+              {
+                "time": 0.1167,
+                "x": 260.7,
+                "y": 0.15
+              },
+              {
+                "time": 0.3667,
+                "x": 344.85,
+                "y": 0.5
+              },
+              {
+                "time": 0.5667,
+                "x": 451.65,
+                "y": 0.1
+              }
+            ]
+          }
+        },
+        "slots": {
+          "shunzi2": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": ""
+              },
+              {
+                "time": 0.0333,
+                "name": "yuanjian-shunzis_star1"
+              },
+              {
+                "time": 0.05,
+                "name": "yuanjian-shunzisi_star2"
+              },
+              {
+                "time": 0.0667,
+                "name": "yuanjian-shunzis_star3"
+              },
+              {
+                "time": 0.0834,
+                "name": "yuanjian-shunzis_star4"
+              },
+              {
+                "time": 0.1001,
+                "name": "yuanjian-shunzis_star5"
+              },
+              {
+                "time": 0.1168,
+                "name": "yuanjian-shunzis_star6"
+              },
+              {
+                "time": 0.1335,
+                "name": "yuanjian-shunzis_star7"
+              },
+              {
+                "time": 0.1502,
+                "name": "yuanjian-shunzis_star8"
+              },
+              {
+                "time": 0.1669,
+                "name": "yuanjian-shunzis_star9"
+              },
+              {
+                "time": 0.1836,
+                "name": "yuanjian-shunzis_star10"
+              },
+              {
+                "time": 0.2003,
+                "name": "yuanjian-shunzis_star11"
+              },
+              {
+                "time": 0.217,
+                "name": "yuanjian-shunzis_star12"
+              },
+              {
+                "time": 0.2337,
+                "name": "yuanjian-shunzis_star13"
+              },
+              {
+                "time": 0.2504,
+                "name": "yuanjian-shunzis_star14"
+              },
+              {
+                "time": 0.2671,
+                "name": "yuanjian-shunzis_star15"
+              },
+              {
+                "time": 0.2838,
+                "name": "yuanjian-shunzis_star16"
+              },
+              {
+                "time": 0.3005,
+                "name": "yuanjian-shunzis_star17"
+              },
+              {
+                "time": 0.3172,
+                "name": "yuanjian-shunzis_star18"
+              },
+              {
+                "time": 0.3339,
+                "name": "yuanjian-shunzis_star19"
+              },
+              {
+                "time": 0.3506,
+                "name": "yuanjian-shunzis_star20"
+              },
+              {
+                "time": 0.3673,
+                "name": "yuanjian-shunzis_star21"
+              },
+              {
+                "time": 0.384,
+                "name": "yuanjian-shunzis_star22"
+              },
+              {
+                "time": 0.4007,
+                "name": "yuanjian-shunzis_star23"
+              },
+              {
+                "time": 0.4174,
+                "name": "yuanjian-shunzis_star24"
+              },
+              {
+                "time": 0.4341,
+                "name": "yuanjian-shunzis_star25"
+              },
+              {
+                "time": 0.4508,
+                "name": "yuanjian-shunzis_star26"
+              },
+              {
+                "time": 0.4675,
+                "name": "yuanjian-shunzis_star28"
+              },
+              {
+                "time": 0.4842,
+                "name": "yuanjian-shunzis_star29"
+              },
+              {
+                "time": 0.5009,
+                "name": "yuanjian-shunzis_star30"
+              },
+              {
+                "time": 0.5176,
+                "name": "yuanjian-shunzis_star31"
+              },
+              {
+                "time": 0.5343,
+                "name": "yuanjian-shunzis_star32"
+              },
+              {
+                "time": 0.551,
+                "name": "yuanjian-shunzis_star33"
+              }
+            ]
+          },
+          "wb_shunzi": {
+            "color": [
+              {
+                "time": 0,
+                "color": "FCFCFC3B"
+              },
+              {
+                "time": 0.1167,
+                "color": "FFFFFFFF"
+              },
+              {
+                "time": 0.3667,
+                "color": "FFFFFFFF"
+              },
+              {
+                "time": 0.5667,
+                "color": "FCFCFC00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nshun-shunzi.png\r\nsize: 256,512\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nwb_shunzi\r\n  rotate: false\r\n  xy: 1, 1\r\n  size: 152, 81\r\n  orig: 152, 81\r\n  offset: 0, 0\r\n  index: -1\r\nyuanjian-shunzis_star16\r\n  rotate: false\r\n  xy: 119, 280\r\n  size: 115, 41\r\n  orig: 178, 52\r\n  offset: 26, 9\r\n  index: -1\r\nyuanjian-shunzis_star11\r\n  rotate: false\r\n  xy: 163, 363\r\n  size: 91, 32\r\n  orig: 178, 52\r\n  offset: 19, 14\r\n  index: -1\r\nyuanjian-shunzis_star15\r\n  rotate: false\r\n  xy: 1, 282\r\n  size: 112, 40\r\n  orig: 178, 52\r\n  offset: 24, 10\r\n  index: -1\r\nyuanjian-shunzis_star9\r\n  rotate: false\r\n  xy: 85, 407\r\n  size: 73, 26\r\n  orig: 178, 52\r\n  offset: 20, 18\r\n  index: -1\r\nyuanjian-shunzis_star14\r\n  rotate: false\r\n  xy: 115, 323\r\n  size: 113, 38\r\n  orig: 178, 52\r\n  offset: 17, 11\r\n  index: -1\r\nyuanjian-shunzis_star30\r\n  rotate: false\r\n  xy: 230, 323\r\n  size: 23, 31\r\n  orig: 178, 52\r\n  offset: 122, 10\r\n  index: -1\r\nyuanjian-shunzisi_star2\r\n  rotate: false\r\n  xy: 236, 311\r\n  size: 11, 10\r\n  orig: 178, 52\r\n  offset: 25, 22\r\n  index: -1\r\nyuanjian-shunzis_star29\r\n  rotate: false\r\n  xy: 45, 465\r\n  size: 26, 39\r\n  orig: 178, 52\r\n  offset: 120, 9\r\n  index: -1\r\nyuanjian-shunzis_star3\r\n  rotate: false\r\n  xy: 239, 297\r\n  size: 15, 12\r\n  orig: 178, 52\r\n  offset: 24, 22\r\n  index: -1\r\nyuanjian-shunzis_star22\r\n  rotate: false\r\n  xy: 1, 361\r\n  size: 82, 42\r\n  orig: 178, 52\r\n  offset: 61, 7\r\n  index: -1\r\nyuanjian-shunzis_star8\r\n  rotate: false\r\n  xy: 1, 437\r\n  size: 55, 26\r\n  orig: 178, 52\r\n  offset: 21, 18\r\n  index: -1\r\nyuanjian-shunzis_star13\r\n  rotate: false\r\n  xy: 1, 324\r\n  size: 105, 35\r\n  orig: 178, 52\r\n  offset: 18, 13\r\n  index: -1\r\nyuanjian-shunzis_star1\r\n  rotate: false\r\n  xy: 58, 455\r\n  size: 8, 7\r\n  orig: 178, 52\r\n  offset: 26, 23\r\n  index: -1\r\nyuanjian-shunzis_star7\r\n  rotate: false\r\n  xy: 1, 465\r\n  size: 42, 25\r\n  orig: 178, 52\r\n  offset: 22, 19\r\n  index: -1\r\nyuanjian-shunzis_star6\r\n  rotate: false\r\n  xy: 181, 170\r\n  size: 31, 20\r\n  orig: 178, 52\r\n  offset: 22, 20\r\n  index: -1\r\nyuanjian-shunzis_star28\r\n  rotate: false\r\n  xy: 85, 435\r\n  size: 44, 40\r\n  orig: 178, 52\r\n  offset: 101, 10\r\n  index: -1\r\nyuanjian-shunzis_star32\r\n  rotate: false\r\n  xy: 1, 84\r\n  size: 178, 52\r\n  orig: 178, 52\r\n  offset: 0, 0\r\n  index: -1\r\nyuanjian-shunzis_star21\r\n  rotate: false\r\n  xy: 155, 1\r\n  size: 99, 42\r\n  orig: 178, 52\r\n  offset: 44, 8\r\n  index: -1\r\nyuanjian-shunzis_star4\r\n  rotate: false\r\n  xy: 236, 280\r\n  size: 18, 15\r\n  orig: 178, 52\r\n  offset: 24, 21\r\n  index: -1\r\nyuanjian-shunzis_star20\r\n  rotate: false\r\n  xy: 1, 237\r\n  size: 116, 43\r\n  orig: 178, 52\r\n  offset: 26, 8\r\n  index: -1\r\nyuanjian-shunzis_star25\r\n  rotate: false\r\n  xy: 181, 125\r\n  size: 59, 43\r\n  orig: 178, 52\r\n  offset: 86, 7\r\n  index: -1\r\nyuanjian-shunzis_star12\r\n  rotate: false\r\n  xy: 155, 45\r\n  size: 98, 35\r\n  orig: 178, 52\r\n  offset: 18, 13\r\n  index: -1\r\nyuanjian-shunzis_star19\r\n  rotate: false\r\n  xy: 1, 192\r\n  size: 117, 43\r\n  orig: 178, 52\r\n  offset: 25, 8\r\n  index: -1\r\nyuanjian-shunzis_star26\r\n  rotate: false\r\n  xy: 163, 397\r\n  size: 47, 42\r\n  orig: 178, 52\r\n  offset: 98, 8\r\n  index: -1\r\nyuanjian-shunzis_star5\r\n  rotate: false\r\n  xy: 58, 437\r\n  size: 21, 16\r\n  orig: 178, 52\r\n  offset: 23, 20\r\n  index: -1\r\nyuanjian-shunzis_star17\r\n  rotate: false\r\n  xy: 119, 237\r\n  size: 117, 41\r\n  orig: 178, 52\r\n  offset: 25, 9\r\n  index: -1\r\nyuanjian-shunzis_star10\r\n  rotate: false\r\n  xy: 1, 405\r\n  size: 82, 30\r\n  orig: 178, 52\r\n  offset: 20, 14\r\n  index: -1\r\nyuanjian-shunzis_star18\r\n  rotate: false\r\n  xy: 120, 192\r\n  size: 117, 43\r\n  orig: 178, 52\r\n  offset: 25, 8\r\n  index: -1\r\nyuanjian-shunzis_star33\r\n  rotate: false\r\n  xy: 1, 138\r\n  size: 178, 52\r\n  orig: 178, 52\r\n  offset: 0, 0\r\n  index: -1\r\nyuanjian-shunzis_star24\r\n  rotate: false\r\n  xy: 181, 82\r\n  size: 67, 41\r\n  orig: 178, 52\r\n  offset: 78, 8\r\n  index: -1\r\nyuanjian-shunzis_star31\r\n  rotate: false\r\n  xy: 131, 435\r\n  size: 23, 31\r\n  orig: 178, 52\r\n  offset: 122, 10\r\n  index: -1\r\nyuanjian-shunzis_star23\r\n  rotate: false\r\n  xy: 85, 363\r\n  size: 76, 42\r\n  orig: 178, 52\r\n  offset: 68, 7\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "a2YB8gaU5JQp/W3cuYiNfZ"
+    }
+  ],
+  "textureNames": [
+    "shun-shunzi.png"
+  ]
+}

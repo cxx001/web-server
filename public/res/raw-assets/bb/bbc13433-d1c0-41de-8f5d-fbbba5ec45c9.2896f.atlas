@@ -1,0 +1,76 @@
+
+grid_boy.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 52
+  size: 257, 202
+  orig: 257, 202
+  offset: 0, 0
+  index: -1
+eyes_close
+  rotate: false
+  xy: 2, 2
+  size: 86, 48
+  orig: 86, 48
+  offset: 0, 0
+  index: -1
+eyes_open
+  rotate: true
+  xy: 962, 174
+  size: 80, 30
+  orig: 80, 30
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 535, 73
+  size: 177, 119
+  orig: 177, 119
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 714, 62
+  size: 109, 134
+  orig: 109, 134
+  offset: 0, 0
+  index: -1
+leg
+  rotate: true
+  xy: 261, 80
+  size: 174, 272
+  orig: 174, 272
+  offset: 0, 0
+  index: -1
+normal_meimao
+  rotate: false
+  xy: 261, 61
+  size: 78, 17
+  orig: 78, 17
+  offset: 0, 0
+  index: -1
+normal_mouse
+  rotate: false
+  xy: 90, 29
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+right_hand
+  rotate: true
+  xy: 784, 173
+  size: 81, 176
+  orig: 81, 176
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 535, 194
+  size: 247, 60
+  orig: 247, 60
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,259 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "naozhong",
+  "_native": "raw-skeleton.json",
+  "_skeletonJson": {
+    "skeleton": {
+      "width": 136.92,
+      "height": 138.37,
+      "fps": 60,
+      "spine": "3.6.0",
+      "hash": " ",
+      "name": "armatureName"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "inheritScale": false,
+        "name": "鍥惧眰 2 澶嶅埗",
+        "parent": "root",
+        "transform": "noScale"
+      },
+      {
+        "inheritScale": false,
+        "x": -44.6,
+        "y": 46.35,
+        "scaleX": 1.12,
+        "scaleY": 1.12,
+        "name": "naozhong",
+        "parent": "root",
+        "transform": "noScale"
+      },
+      {
+        "inheritScale": false,
+        "name": "鍥惧眰 2  澶嶅埗 2",
+        "parent": "root",
+        "transform": "noScale"
+      }
+    ],
+    "slots": [
+      {
+        "name": "鍥惧眰 2 澶嶅埗",
+        "bone": "鍥惧眰 2 澶嶅埗",
+        "attachment": "naozhong-guang"
+      },
+      {
+        "name": "naozhong",
+        "bone": "naozhong",
+        "attachment": "naozhong-1"
+      },
+      {
+        "name": "鍥惧眰 2  澶嶅埗 2",
+        "bone": "鍥惧眰 2  澶嶅埗 2",
+        "attachment": "naozhong-guang"
+      }
+    ],
+    "skins": {
+      "default": {
+        "naozhong": {
+          "naozhong-1": {
+            "name": "naozhong-1",
+            "width": 78,
+            "height": 83,
+            "x": 39,
+            "y": -41.5
+          }
+        },
+        "鍥惧眰 2 澶嶅埗": {
+          "naozhong-guang": {
+            "name": "naozhong-guang",
+            "width": 97,
+            "height": 97,
+            "x": 48.5,
+            "y": -48.5
+          }
+        },
+        "鍥惧眰 2  澶嶅埗 2": {
+          "naozhong-guang": {
+            "name": "naozhong-guang",
+            "width": 97,
+            "height": 97,
+            "x": 48.5,
+            "y": -48.5
+          }
+        }
+      }
+    },
+    "animations": {
+      "naozhong": {
+        "bones": {
+          "鍥惧眰 2  澶嶅埗 2": {
+            "translate": [
+              {
+                "time": 0
+              },
+              {
+                "time": 0.25,
+                "x": -30.35,
+                "y": 24.15
+              },
+              {
+                "time": 0.4667,
+                "x": -57.15,
+                "y": 50.95
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.25,
+                "x": 0.6,
+                "y": 0.6
+              },
+              {
+                "time": 0.4667,
+                "x": 1.16,
+                "y": 1.16
+              }
+            ]
+          },
+          "naozhong": {
+            "translate": [
+              {
+                "time": 0
+              },
+              {
+                "time": 0.25,
+                "x": 4.8,
+                "y": -5
+              },
+              {
+                "time": 0.5333
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.25,
+                "x": 0.89,
+                "y": 0.89
+              },
+              {
+                "time": 0.5333,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "鍥惧眰 2 澶嶅埗": {
+            "translate": [
+              {
+                "time": 0
+              },
+              {
+                "time": 0.3167,
+                "x": -30.35,
+                "y": 24.15
+              },
+              {
+                "time": 0.5334,
+                "x": -57.15,
+                "y": 50.95
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.3167,
+                "x": 0.6,
+                "y": 0.6
+              },
+              {
+                "time": 0.5334,
+                "x": 1.16,
+                "y": 1.16
+              }
+            ]
+          }
+        },
+        "slots": {
+          "鍥惧眰 2  澶嶅埗 2": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": ""
+              },
+              {
+                "time": 0.25,
+                "name": "naozhong-guang"
+              }
+            ],
+            "color": [
+              {
+                "time": 0,
+                "color": "FFFFFFFF"
+              },
+              {
+                "time": 0.25,
+                "color": "FFFFFFFF"
+              },
+              {
+                "time": 0.4667,
+                "color": "FCFCFC00"
+              }
+            ]
+          },
+          "鍥惧眰 2 澶嶅埗": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": ""
+              },
+              {
+                "time": 0.3167,
+                "name": "naozhong-guang"
+              }
+            ],
+            "color": [
+              {
+                "time": 0,
+                "color": "FFFFFFFF"
+              },
+              {
+                "time": 0.3167,
+                "color": "FFFFFFFF"
+              },
+              {
+                "time": 0.5334,
+                "color": "FCFCFC17"
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nnaozhong.png\r\nsize: 256,128\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nnaozhong-guang\r\n  rotate: false\r\n  xy: 1, 1\r\n  size: 97, 97\r\n  orig: 97, 97\r\n  offset: 0, 0\r\n  index: -1\r\nnaozhong-1\r\n  rotate: false\r\n  xy: 100, 1\r\n  size: 78, 83\r\n  orig: 78, 83\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "87w6EYVzdGraLNC4OrBHrU"
+    }
+  ],
+  "textureNames": [
+    "naozhong.png"
+  ]
+}

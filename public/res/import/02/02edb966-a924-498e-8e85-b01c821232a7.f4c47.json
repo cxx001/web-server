@@ -1,0 +1,495 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "san-sandaier",
+  "_native": "raw-skeleton.json",
+  "_skeletonJson": {
+    "skeleton": {
+      "width": 259.96,
+      "height": 207.78,
+      "fps": 60,
+      "spine": "3.6.0",
+      "hash": " ",
+      "name": "armatureName"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "inheritScale": false,
+        "name": "鍥惧眰 4",
+        "parent": "root",
+        "transform": "noScale"
+      },
+      {
+        "inheritScale": false,
+        "x": 33.15,
+        "y": -139.7,
+        "scaleX": 0.84,
+        "scaleY": 0.84,
+        "name": "鍥惧眰 3",
+        "parent": "root",
+        "transform": "noScale"
+      },
+      {
+        "inheritScale": false,
+        "x": -88,
+        "y": -136.35,
+        "scaleX": 0.84,
+        "scaleY": 0.84,
+        "name": "鍥惧眰 2",
+        "parent": "root",
+        "transform": "noScale"
+      },
+      {
+        "inheritScale": false,
+        "name": "2",
+        "parent": "root",
+        "transform": "noScale"
+      }
+    ],
+    "slots": [
+      {
+        "name": "鍥惧眰 2",
+        "bone": "鍥惧眰 2",
+        "attachment": "san"
+      },
+      {
+        "name": "鍥惧眰 3",
+        "bone": "鍥惧眰 3",
+        "attachment": "er"
+      },
+      {
+        "name": "鍥惧眰 4",
+        "bone": "鍥惧眰 4",
+        "attachment": "dai"
+      },
+      {
+        "name": "2",
+        "bone": "2",
+        "attachment": "saidaier_1"
+      }
+    ],
+    "skins": {
+      "default": {
+        "2": {
+          "saidaier_1": {
+            "name": "saidaier_1",
+            "width": 165,
+            "height": 190,
+            "x": 82.5,
+            "y": -95
+          },
+          "saidaier_2": {
+            "name": "saidaier_2",
+            "width": 122,
+            "height": 57,
+            "x": 82.5,
+            "y": -95
+          },
+          "saidaier_3": {
+            "name": "saidaier_3",
+            "width": 123,
+            "height": 59,
+            "x": 82.5,
+            "y": -95
+          },
+          "saidaier_4": {
+            "name": "saidaier_4",
+            "width": 124,
+            "height": 60,
+            "x": 82.5,
+            "y": -95
+          },
+          "saidaier_5": {
+            "name": "saidaier_5",
+            "width": 125,
+            "height": 62,
+            "x": 82.5,
+            "y": -95
+          },
+          "saidaier_6": {
+            "name": "saidaier_6",
+            "width": 126,
+            "height": 65,
+            "x": 82.5,
+            "y": -95
+          },
+          "saidaier_7": {
+            "name": "saidaier_7",
+            "width": 127,
+            "height": 67,
+            "x": 82.5,
+            "y": -95
+          },
+          "saidaier_8": {
+            "name": "saidaier_8",
+            "width": 127,
+            "height": 70,
+            "x": 82.5,
+            "y": -95
+          },
+          "saidaier_9": {
+            "name": "saidaier_9",
+            "width": 128,
+            "height": 73,
+            "x": 82.5,
+            "y": -95
+          },
+          "saidaier_10": {
+            "name": "saidaier_10",
+            "width": 123,
+            "height": 76,
+            "x": 82.5,
+            "y": -95
+          },
+          "saidaier_11": {
+            "name": "saidaier_11",
+            "width": 119,
+            "height": 68,
+            "x": 82.5,
+            "y": -95
+          }
+        },
+        "鍥惧眰 4": {
+          "dai": {
+            "name": "dai",
+            "width": 84,
+            "height": 82,
+            "x": 42,
+            "y": -41
+          }
+        },
+        "鍥惧眰 3": {
+          "er": {
+            "name": "er",
+            "width": 84,
+            "height": 74,
+            "x": 42,
+            "y": -37
+          }
+        },
+        "鍥惧眰 2": {
+          "san": {
+            "name": "san",
+            "width": 87,
+            "height": 76,
+            "x": 43.5,
+            "y": -38
+          }
+        }
+      }
+    },
+    "animations": {
+      "saidaier": {
+        "bones": {
+          "2": {
+            "translate": [
+              {
+                "time": 0
+              },
+              {
+                "time": 0.1167,
+                "x": -162,
+                "y": 201.95
+              },
+              {
+                "time": 0.1334,
+                "x": -165,
+                "y": 189.45
+              },
+              {
+                "time": 0.2834,
+                "x": -165,
+                "y": 189.45
+              },
+              {
+                "time": 0.3167
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.1167,
+                "x": 2,
+                "y": 2
+              },
+              {
+                "time": 0.2834,
+                "x": 2,
+                "y": 2
+              },
+              {
+                "time": 0.3167,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "鍥惧眰 4": {
+            "translate": [
+              {
+                "time": 0
+              },
+              {
+                "time": 0.1333,
+                "x": -14.5,
+                "y": 76.5
+              },
+              {
+                "time": 0.2166,
+                "x": -30.25,
+                "y": 10.45
+              },
+              {
+                "time": 0.2666,
+                "x": -17.5
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.1333,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.2166,
+                "x": 1.24,
+                "y": 1.24
+              },
+              {
+                "time": 0.2666,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "鍥惧眰 3": {
+            "translate": [
+              {
+                "time": 0
+              },
+              {
+                "time": 0.0667,
+                "x": 22.8,
+                "y": 82.6
+              },
+              {
+                "time": 0.1334,
+                "x": -2.15,
+                "y": 131.85
+              },
+              {
+                "time": 0.2167,
+                "x": 38.85,
+                "y": 131.85
+              },
+              {
+                "time": 0.2667,
+                "x": 16.85,
+                "y": 132.85
+              },
+              {
+                "time": 0.3167,
+                "x": 34.85,
+                "y": 132.85
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.0667,
+                "x": 1.45,
+                "y": 1.45
+              },
+              {
+                "time": 0.1334,
+                "x": 1.19,
+                "y": 1.19
+              }
+            ]
+          },
+          "鍥惧眰 2": {
+            "translate": [
+              {
+                "time": 0
+              },
+              {
+                "time": 0.0667,
+                "x": -31.5,
+                "y": 84.15
+              },
+              {
+                "time": 0.1334,
+                "x": 5.5,
+                "y": 132.5
+              },
+              {
+                "time": 0.2167,
+                "x": -34,
+                "y": 132.5
+              },
+              {
+                "time": 0.2667,
+                "x": -13.5,
+                "y": 132.5
+              },
+              {
+                "time": 0.3167,
+                "x": -27.5,
+                "y": 132.5
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.0667,
+                "x": 1.45,
+                "y": 1.45
+              },
+              {
+                "time": 0.1334,
+                "x": 1.19,
+                "y": 1.19
+              }
+            ]
+          }
+        },
+        "slots": {
+          "2": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": ""
+              },
+              {
+                "time": 0.1167,
+                "name": "saidaier_1"
+              },
+              {
+                "time": 0.1334,
+                "name": "saidaier_2"
+              },
+              {
+                "time": 0.1501,
+                "name": "saidaier_3"
+              },
+              {
+                "time": 0.1668,
+                "name": "saidaier_4"
+              },
+              {
+                "time": 0.1835,
+                "name": "saidaier_5"
+              },
+              {
+                "time": 0.2002,
+                "name": "saidaier_6"
+              },
+              {
+                "time": 0.2169,
+                "name": "saidaier_7"
+              },
+              {
+                "time": 0.2336,
+                "name": "saidaier_8"
+              },
+              {
+                "time": 0.2503,
+                "name": "saidaier_9"
+              },
+              {
+                "time": 0.267,
+                "name": "saidaier_10"
+              },
+              {
+                "time": 0.2837,
+                "name": "saidaier_11"
+              },
+              {
+                "time": 0.317,
+                "name": ""
+              }
+            ]
+          },
+          "鍥惧眰 4": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": ""
+              },
+              {
+                "time": 0.1333,
+                "name": "dai"
+              }
+            ],
+            "color": [
+              {
+                "time": 0,
+                "color": "FFFFFFFF"
+              },
+              {
+                "time": 0.1333,
+                "color": "FCFCFC21"
+              },
+              {
+                "time": 0.2166,
+                "color": "FFFFFFFF"
+              }
+            ]
+          },
+          "鍥惧眰 3": {
+            "color": [
+              {
+                "time": 0,
+                "color": "FCFCFC21"
+              },
+              {
+                "time": 0.0667,
+                "color": "FFFFFFFF"
+              }
+            ]
+          },
+          "鍥惧眰 2": {
+            "color": [
+              {
+                "time": 0,
+                "color": "FCFCFC21"
+              },
+              {
+                "time": 0.0667,
+                "color": "FFFFFFFF"
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nsan-sandaier.png\r\nsize: 512,512\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nsan\r\n  rotate: false\r\n  xy: 1, 341\r\n  size: 87, 76\r\n  orig: 87, 76\r\n  offset: 0, 0\r\n  index: -1\r\ner\r\n  rotate: false\r\n  xy: 256, 142\r\n  size: 84, 74\r\n  orig: 84, 74\r\n  offset: 0, 0\r\n  index: -1\r\ndai\r\n  rotate: false\r\n  xy: 122, 335\r\n  size: 84, 82\r\n  orig: 84, 82\r\n  offset: 0, 0\r\n  index: -1\r\nsaidaier_11\r\n  rotate: false\r\n  xy: 1, 271\r\n  size: 119, 68\r\n  orig: 165, 190\r\n  offset: 19, 46\r\n  index: -1\r\nsaidaier_7\r\n  rotate: false\r\n  xy: 168, 73\r\n  size: 127, 67\r\n  orig: 165, 190\r\n  offset: 9, 53\r\n  index: -1\r\nsaidaier_8\r\n  rotate: false\r\n  xy: 168, 1\r\n  size: 127, 70\r\n  orig: 165, 190\r\n  offset: 9, 51\r\n  index: -1\r\nsaidaier_1\r\n  rotate: false\r\n  xy: 1, 1\r\n  size: 165, 190\r\n  orig: 165, 190\r\n  offset: 0, 0\r\n  index: -1\r\nsaidaier_5\r\n  rotate: false\r\n  xy: 254, 268\r\n  size: 125, 62\r\n  orig: 165, 190\r\n  offset: 10, 56\r\n  index: -1\r\nsaidaier_6\r\n  rotate: false\r\n  xy: 126, 268\r\n  size: 126, 65\r\n  orig: 165, 190\r\n  offset: 10, 54\r\n  index: -1\r\nsaidaier_10\r\n  rotate: false\r\n  xy: 1, 193\r\n  size: 123, 76\r\n  orig: 165, 190\r\n  offset: 13, 47\r\n  index: -1\r\nsaidaier_4\r\n  rotate: false\r\n  xy: 381, 268\r\n  size: 124, 60\r\n  orig: 165, 190\r\n  offset: 11, 57\r\n  index: -1\r\nsaidaier_2\r\n  rotate: false\r\n  xy: 254, 332\r\n  size: 122, 57\r\n  orig: 165, 190\r\n  offset: 12, 59\r\n  index: -1\r\nsaidaier_3\r\n  rotate: false\r\n  xy: 381, 330\r\n  size: 123, 59\r\n  orig: 165, 190\r\n  offset: 11, 58\r\n  index: -1\r\nsaidaier_9\r\n  rotate: false\r\n  xy: 126, 193\r\n  size: 128, 73\r\n  orig: 165, 190\r\n  offset: 9, 49\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "23C09QsLRFOpW50/v5ULP1"
+    }
+  ],
+  "textureNames": [
+    "san-sandaier.png"
+  ]
+}

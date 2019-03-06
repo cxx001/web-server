@@ -1,0 +1,1475 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "tonghuashun",
+  "_native": "raw-skeleton.json",
+  "_skeletonJson": {
+    "skeleton": {
+      "width": 179.6,
+      "height": 279.19,
+      "fps": 60,
+      "spine": "3.6.0",
+      "hash": " ",
+      "name": "armatureName"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "inheritScale": false,
+        "name": "鍥惧眰 5 澶嶅埗",
+        "parent": "root",
+        "transform": "noScale"
+      },
+      {
+        "inheritScale": false,
+        "x": 21.65,
+        "y": -212.6,
+        "scaleX": 0.59,
+        "scaleY": 0.59,
+        "name": "鍥惧眰 3",
+        "parent": "root",
+        "transform": "noScale"
+      },
+      {
+        "inheritScale": false,
+        "name": "鍥惧眰 1",
+        "parent": "root",
+        "transform": "noScale"
+      },
+      {
+        "inheritScale": false,
+        "name": "鍥惧眰 4",
+        "parent": "root",
+        "transform": "noScale"
+      },
+      {
+        "inheritScale": false,
+        "name": "鍥惧眰 4 澶嶅埗",
+        "parent": "root",
+        "transform": "noScale"
+      },
+      {
+        "inheritScale": false,
+        "name": "鍥惧眰 4  澶嶅埗 2",
+        "parent": "root",
+        "transform": "noScale"
+      },
+      {
+        "inheritScale": false,
+        "name": "鍥惧眰 4     澶嶅埗 5",
+        "parent": "root",
+        "transform": "noScale"
+      },
+      {
+        "inheritScale": false,
+        "x": -69.15,
+        "y": -213.2,
+        "scaleX": 0.59,
+        "scaleY": 0.59,
+        "name": "鍥惧眰 2",
+        "parent": "root",
+        "transform": "noScale"
+      },
+      {
+        "inheritScale": false,
+        "name": "鍥惧眰 4   澶嶅埗 3",
+        "parent": "root",
+        "transform": "noScale"
+      },
+      {
+        "inheritScale": false,
+        "name": "鍥惧眰 4    澶嶅埗 4",
+        "parent": "root",
+        "transform": "noScale"
+      },
+      {
+        "inheritScale": false,
+        "name": "鍥惧眰 4      澶嶅埗 6",
+        "parent": "root",
+        "transform": "noScale"
+      },
+      {
+        "inheritScale": false,
+        "name": "鍥惧眰 5  澶嶅埗 2",
+        "parent": "root",
+        "transform": "noScale"
+      },
+      {
+        "inheritScale": false,
+        "name": "鍥惧眰 5",
+        "parent": "root",
+        "transform": "noScale"
+      },
+      {
+        "inheritScale": false,
+        "name": "鍥惧眰 5   澶嶅埗 3",
+        "parent": "root",
+        "transform": "noScale"
+      }
+    ],
+    "slots": [
+      {
+        "name": "鍥惧眰 2",
+        "bone": "鍥惧眰 2",
+        "attachment": "tonghuashuntong"
+      },
+      {
+        "name": "鍥惧眰 3",
+        "bone": "鍥惧眰 3",
+        "attachment": "tonghua-shun"
+      },
+      {
+        "name": "鍥惧眰 1",
+        "bone": "鍥惧眰 1",
+        "attachment": "tonghuashun-hua-1"
+      },
+      {
+        "name": "鍥惧眰 4",
+        "bone": "鍥惧眰 4",
+        "attachment": "tonghuashun-xin"
+      },
+      {
+        "name": "鍥惧眰 4 澶嶅埗",
+        "bone": "鍥惧眰 4 澶嶅埗",
+        "attachment": "tonghuashun-xin"
+      },
+      {
+        "name": "鍥惧眰 4  澶嶅埗 2",
+        "bone": "鍥惧眰 4  澶嶅埗 2",
+        "attachment": "tonghuashun-xin"
+      },
+      {
+        "name": "鍥惧眰 4     澶嶅埗 5",
+        "bone": "鍥惧眰 4     澶嶅埗 5",
+        "attachment": "tonghuashun-xin"
+      },
+      {
+        "name": "鍥惧眰 5 澶嶅埗",
+        "bone": "鍥惧眰 5 澶嶅埗",
+        "attachment": "tonghaushun-xing"
+      },
+      {
+        "name": "鍥惧眰 4   澶嶅埗 3",
+        "bone": "鍥惧眰 4   澶嶅埗 3",
+        "attachment": "tonghuashun-xin"
+      },
+      {
+        "name": "鍥惧眰 4    澶嶅埗 4",
+        "bone": "鍥惧眰 4    澶嶅埗 4",
+        "attachment": "tonghuashun-xin"
+      },
+      {
+        "name": "鍥惧眰 4      澶嶅埗 6",
+        "bone": "鍥惧眰 4      澶嶅埗 6",
+        "attachment": "tonghuashun-xin"
+      },
+      {
+        "name": "鍥惧眰 5  澶嶅埗 2",
+        "bone": "鍥惧眰 5  澶嶅埗 2",
+        "attachment": "tonghaushun-xing"
+      },
+      {
+        "name": "鍥惧眰 5",
+        "bone": "鍥惧眰 5",
+        "attachment": "tonghaushun-xing"
+      },
+      {
+        "name": "鍥惧眰 5   澶嶅埗 3",
+        "bone": "鍥惧眰 5   澶嶅埗 3",
+        "attachment": "tonghaushun-xing"
+      }
+    ],
+    "skins": {
+      "default": {
+        "鍥惧眰 4  澶嶅埗 2": {
+          "tonghuashun-xin": {
+            "name": "tonghuashun-xin",
+            "width": 35,
+            "height": 31,
+            "x": 17.5,
+            "y": -15.5
+          }
+        },
+        "鍥惧眰 4     澶嶅埗 5": {
+          "tonghuashun-xin": {
+            "name": "tonghuashun-xin",
+            "width": 35,
+            "height": 31,
+            "x": 17.5,
+            "y": -15.5
+          }
+        },
+        "鍥惧眰 4": {
+          "tonghuashun-xin": {
+            "name": "tonghuashun-xin",
+            "width": 35,
+            "height": 31,
+            "x": 17.5,
+            "y": -15.5
+          }
+        },
+        "鍥惧眰 4   澶嶅埗 3": {
+          "tonghuashun-xin": {
+            "name": "tonghuashun-xin",
+            "width": 35,
+            "height": 31,
+            "x": 17.5,
+            "y": -15.5
+          }
+        },
+        "鍥惧眰 5   澶嶅埗 3": {
+          "tonghaushun-xing": {
+            "name": "tonghaushun-xing",
+            "width": 58,
+            "height": 57,
+            "x": 29,
+            "y": -28.5
+          }
+        },
+        "鍥惧眰 5": {
+          "tonghaushun-xing": {
+            "name": "tonghaushun-xing",
+            "width": 58,
+            "height": 57,
+            "x": 29,
+            "y": -28.5
+          }
+        },
+        "鍥惧眰 4      澶嶅埗 6": {
+          "tonghuashun-xin": {
+            "name": "tonghuashun-xin",
+            "width": 35,
+            "height": 31,
+            "x": 17.5,
+            "y": -15.5
+          }
+        },
+        "鍥惧眰 4 澶嶅埗": {
+          "tonghuashun-xin": {
+            "name": "tonghuashun-xin",
+            "width": 35,
+            "height": 31,
+            "x": 17.5,
+            "y": -15.5
+          }
+        },
+        "鍥惧眰 2": {
+          "tonghuashuntong": {
+            "name": "tonghuashuntong",
+            "width": 88,
+            "height": 83,
+            "x": 44,
+            "y": -41.5
+          }
+        },
+        "鍥惧眰 4    澶嶅埗 4": {
+          "tonghuashun-xin": {
+            "name": "tonghuashun-xin",
+            "width": 35,
+            "height": 31,
+            "x": 17.5,
+            "y": -15.5
+          }
+        },
+        "鍥惧眰 5 澶嶅埗": {
+          "tonghaushun-xing": {
+            "name": "tonghaushun-xing",
+            "width": 58,
+            "height": 57,
+            "x": 29,
+            "y": -28.5
+          }
+        },
+        "鍥惧眰 1": {
+          "tonghuashun-hua-1": {
+            "name": "tonghuashun-hua-1",
+            "width": 86,
+            "height": 84,
+            "x": 43,
+            "y": -42
+          }
+        },
+        "鍥惧眰 5  澶嶅埗 2": {
+          "tonghaushun-xing": {
+            "name": "tonghaushun-xing",
+            "width": 58,
+            "height": 57,
+            "x": 29,
+            "y": -28.5
+          }
+        },
+        "鍥惧眰 3": {
+          "tonghua-shun": {
+            "name": "tonghua-shun",
+            "width": 89,
+            "height": 81,
+            "x": 44.5,
+            "y": -40.5
+          }
+        }
+      }
+    },
+    "animations": {
+      "tonghuashun": {
+        "bones": {
+          "鍥惧眰 5   澶嶅埗 3": {
+            "translate": [
+              {
+                "time": 0
+              },
+              {
+                "time": 0.4333,
+                "x": -118.4,
+                "y": 47.7
+              },
+              {
+                "time": 0.5166,
+                "x": -128.4,
+                "y": 59.2
+              },
+              {
+                "time": 0.5999,
+                "x": -118.4,
+                "y": 47.7
+              },
+              {
+                "time": 0.6166
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.4333,
+                "x": 0.5,
+                "y": 0.5
+              },
+              {
+                "time": 0.5166,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.5999,
+                "x": 0.5,
+                "y": 0.5
+              },
+              {
+                "time": 0.6166,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "鍥惧眰 5": {
+            "translate": [
+              {
+                "time": 0
+              },
+              {
+                "time": 0.4,
+                "x": -60.5,
+                "y": -14.85
+              },
+              {
+                "time": 0.4833,
+                "x": -70.5,
+                "y": -3.35
+              },
+              {
+                "time": 0.5666,
+                "x": -60.5,
+                "y": -14.85
+              },
+              {
+                "time": 0.5833
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.4,
+                "x": 0.5,
+                "y": 0.5
+              },
+              {
+                "time": 0.4833,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.5666,
+                "x": 0.5,
+                "y": 0.5
+              },
+              {
+                "time": 0.5833,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "鍥惧眰 5  澶嶅埗 2": {
+            "translate": [
+              {
+                "time": 0
+              },
+              {
+                "time": 0.4833,
+                "x": 93.05,
+                "y": -2.8
+              },
+              {
+                "time": 0.5666,
+                "x": 83.05,
+                "y": 8.7
+              },
+              {
+                "time": 0.6499,
+                "x": 93.05,
+                "y": -2.8
+              },
+              {
+                "time": 0.6666
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.4833,
+                "x": 0.5,
+                "y": 0.5
+              },
+              {
+                "time": 0.5666,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.6499,
+                "x": 0.5,
+                "y": 0.5
+              },
+              {
+                "time": 0.6666,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "鍥惧眰 4      澶嶅埗 6": {
+            "translate": [
+              {
+                "time": 0
+              },
+              {
+                "time": 0.3667,
+                "x": 80.5,
+                "y": 4.4
+              },
+              {
+                "time": 0.4334,
+                "x": 75.5,
+                "y": 40.65
+              },
+              {
+                "time": 0.5001,
+                "x": 73,
+                "y": 51.15
+              },
+              {
+                "time": 0.5668,
+                "x": 73,
+                "y": 51.15
+              },
+              {
+                "time": 0.5835
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.3667,
+                "x": 0.42,
+                "y": 0.42
+              },
+              {
+                "time": 0.4334,
+                "x": 0.81,
+                "y": 0.81
+              },
+              {
+                "time": 0.5001,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "鍥惧眰 4    澶嶅埗 4": {
+            "translate": [
+              {
+                "time": 0
+              },
+              {
+                "time": 0.3667,
+                "x": 44,
+                "y": -6.1
+              },
+              {
+                "time": 0.4334,
+                "x": 39,
+                "y": 30.15
+              },
+              {
+                "time": 0.5001,
+                "x": 36.5,
+                "y": 40.65
+              },
+              {
+                "time": 0.5668,
+                "x": 36.5,
+                "y": 40.65
+              },
+              {
+                "time": 0.5835
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.3667,
+                "x": 0.42,
+                "y": 0.42
+              },
+              {
+                "time": 0.4334,
+                "x": 0.81,
+                "y": 0.81
+              },
+              {
+                "time": 0.5001,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "鍥惧眰 4   澶嶅埗 3": {
+            "translate": [
+              {
+                "time": 0
+              },
+              {
+                "time": 0.4,
+                "x": -8.95,
+                "y": -1.1
+              },
+              {
+                "time": 0.4667,
+                "x": -13.95,
+                "y": 35.15
+              },
+              {
+                "time": 0.5334,
+                "x": -16.45,
+                "y": 45.65
+              },
+              {
+                "time": 0.6001,
+                "x": -16.45,
+                "y": 45.65
+              },
+              {
+                "time": 0.6168
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.4,
+                "x": 0.42,
+                "y": 0.42
+              },
+              {
+                "time": 0.4667,
+                "x": 0.81,
+                "y": 0.81
+              },
+              {
+                "time": 0.5334,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "鍥惧眰 5 澶嶅埗": {
+            "translate": [
+              {
+                "time": 0
+              },
+              {
+                "time": 0.5167,
+                "x": 21,
+                "y": 41.2
+              },
+              {
+                "time": 0.6,
+                "x": 11,
+                "y": 52.7
+              },
+              {
+                "time": 0.6833,
+                "x": 21,
+                "y": 41.2
+              },
+              {
+                "time": 0.7
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.5167,
+                "x": 0.5,
+                "y": 0.5
+              },
+              {
+                "time": 0.6,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.6833,
+                "x": 0.5,
+                "y": 0.5
+              },
+              {
+                "time": 0.7,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "鍥惧眰 4     澶嶅埗 5": {
+            "translate": [
+              {
+                "time": 0
+              },
+              {
+                "time": 0.3,
+                "x": 134,
+                "y": -47.25
+              },
+              {
+                "time": 0.3667,
+                "x": 129,
+                "y": -11
+              },
+              {
+                "time": 0.4334,
+                "x": 126.5,
+                "y": -0.5
+              },
+              {
+                "time": 0.5001,
+                "x": 126.5,
+                "y": -0.5
+              },
+              {
+                "time": 0.5168
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.3,
+                "x": 0.42,
+                "y": 0.42
+              },
+              {
+                "time": 0.3667,
+                "x": 0.81,
+                "y": 0.81
+              },
+              {
+                "time": 0.4334,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "鍥惧眰 4  澶嶅埗 2": {
+            "translate": [
+              {
+                "time": 0
+              },
+              {
+                "time": 0.3333,
+                "x": -28,
+                "y": -25.85
+              },
+              {
+                "time": 0.4,
+                "x": -33,
+                "y": 10.4
+              },
+              {
+                "time": 0.4667,
+                "x": -35.5,
+                "y": 20.9
+              },
+              {
+                "time": 0.5334,
+                "x": -35.5,
+                "y": 20.9
+              },
+              {
+                "time": 0.5501
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.3333,
+                "x": 0.42,
+                "y": 0.42
+              },
+              {
+                "time": 0.4,
+                "x": 0.81,
+                "y": 0.81
+              },
+              {
+                "time": 0.4667,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "鍥惧眰 4 澶嶅埗": {
+            "translate": [
+              {
+                "time": 0
+              },
+              {
+                "time": 0.3,
+                "x": -88.45,
+                "y": -13.1
+              },
+              {
+                "time": 0.3667,
+                "x": -93.45,
+                "y": 23.15
+              },
+              {
+                "time": 0.4334,
+                "x": -95.95,
+                "y": 33.65
+              },
+              {
+                "time": 0.5001,
+                "x": -95.95,
+                "y": 33.65
+              },
+              {
+                "time": 0.5168
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.3,
+                "x": 0.42,
+                "y": 0.42
+              },
+              {
+                "time": 0.3667,
+                "x": 0.81,
+                "y": 0.81
+              },
+              {
+                "time": 0.4334,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "鍥惧眰 4": {
+            "translate": [
+              {
+                "time": 0
+              },
+              {
+                "time": 0.3833,
+                "x": -135,
+                "y": -25.85
+              },
+              {
+                "time": 0.45,
+                "x": -140,
+                "y": 10.4
+              },
+              {
+                "time": 0.5167,
+                "x": -142.5,
+                "y": 20.9
+              },
+              {
+                "time": 0.5834,
+                "x": -142.5,
+                "y": 20.9
+              },
+              {
+                "time": 0.6001
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.3833,
+                "x": 0.42,
+                "y": 0.42
+              },
+              {
+                "time": 0.45,
+                "x": 0.81,
+                "y": 0.81
+              },
+              {
+                "time": 0.5167,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "鍥惧眰 1": {
+            "translate": [
+              {
+                "time": 0
+              },
+              {
+                "time": 0.1,
+                "x": -26,
+                "y": 121.9
+              },
+              {
+                "time": 0.15,
+                "x": -36.4,
+                "y": 43.9
+              },
+              {
+                "time": 0.2,
+                "x": -26.4,
+                "y": 43.9
+              },
+              {
+                "time": 0.25,
+                "x": -38.35,
+                "y": 43.9
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.1,
+                "x": 0.59,
+                "y": 0.59
+              },
+              {
+                "time": 0.15,
+                "x": 1.01,
+                "y": 1.06
+              },
+              {
+                "time": 0.2,
+                "x": 0.73,
+                "y": 1.06
+              },
+              {
+                "time": 0.25,
+                "x": 1.06,
+                "y": 1.06
+              }
+            ]
+          },
+          "鍥惧眰 3": {
+            "translate": [
+              {
+                "time": 0
+              },
+              {
+                "time": 0.05,
+                "x": 54.3,
+                "y": 148
+              },
+              {
+                "time": 0.1,
+                "x": 36.85,
+                "y": 251
+              },
+              {
+                "time": 0.15,
+                "x": 26.85,
+                "y": 251
+              },
+              {
+                "time": 0.2,
+                "x": 12.9,
+                "y": 251
+              },
+              {
+                "time": 0.25,
+                "x": 47.85,
+                "y": 251
+              },
+              {
+                "time": 0.3,
+                "x": 37.85,
+                "y": 251
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.05,
+                "x": 2,
+                "y": 2
+              },
+              {
+                "time": 0.1,
+                "x": 1.69,
+                "y": 1.69
+              },
+              {
+                "time": 0.15,
+                "x": 1.69,
+                "y": 1.69
+              },
+              {
+                "time": 0.2,
+                "x": 1.24,
+                "y": 1.69
+              },
+              {
+                "time": 0.25,
+                "x": 1.69,
+                "y": 1.69
+              }
+            ]
+          },
+          "鍥惧眰 2": {
+            "translate": [
+              {
+                "time": 0
+              },
+              {
+                "time": 0.05,
+                "x": -96.85,
+                "y": 148.6
+              },
+              {
+                "time": 0.1,
+                "x": -66.35,
+                "y": 251.6
+              },
+              {
+                "time": 0.15,
+                "x": -51.35,
+                "y": 251.6
+              },
+              {
+                "time": 0.2,
+                "x": -20.85,
+                "y": 251.6
+              },
+              {
+                "time": 0.25,
+                "x": -73.35,
+                "y": 251.6
+              },
+              {
+                "time": 0.3,
+                "x": -63.35,
+                "y": 251.6
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.05,
+                "x": 2,
+                "y": 2
+              },
+              {
+                "time": 0.1,
+                "x": 1.69,
+                "y": 1.69
+              },
+              {
+                "time": 0.15,
+                "x": 1.69,
+                "y": 1.69
+              },
+              {
+                "time": 0.2,
+                "x": 1.27,
+                "y": 1.69
+              },
+              {
+                "time": 0.25,
+                "x": 1.69,
+                "y": 1.69
+              }
+            ]
+          }
+        },
+        "slots": {
+          "鍥惧眰 5   澶嶅埗 3": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": ""
+              },
+              {
+                "time": 0.4333,
+                "name": "tonghaushun-xing"
+              },
+              {
+                "time": 0.6166,
+                "name": ""
+              }
+            ]
+          },
+          "鍥惧眰 5": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": ""
+              },
+              {
+                "time": 0.4,
+                "name": "tonghaushun-xing"
+              },
+              {
+                "time": 0.5833,
+                "name": ""
+              }
+            ]
+          },
+          "鍥惧眰 5  澶嶅埗 2": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": ""
+              },
+              {
+                "time": 0.4833,
+                "name": "tonghaushun-xing"
+              },
+              {
+                "time": 0.6666,
+                "name": ""
+              }
+            ]
+          },
+          "鍥惧眰 4      澶嶅埗 6": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": ""
+              },
+              {
+                "time": 0.3667,
+                "name": "tonghuashun-xin"
+              },
+              {
+                "time": 0.5834,
+                "name": ""
+              }
+            ],
+            "color": [
+              {
+                "time": 0,
+                "color": "FFFFFFFF"
+              },
+              {
+                "time": 0.4333,
+                "color": "FFFFFFFF"
+              },
+              {
+                "time": 0.5,
+                "color": "FCFCFC1A"
+              },
+              {
+                "time": 0.5667,
+                "color": "FCFCFC00"
+              },
+              {
+                "time": 0.5834,
+                "color": "FFFFFFFF"
+              }
+            ]
+          },
+          "鍥惧眰 4    澶嶅埗 4": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": ""
+              },
+              {
+                "time": 0.3667,
+                "name": "tonghuashun-xin"
+              },
+              {
+                "time": 0.5834,
+                "name": ""
+              }
+            ],
+            "color": [
+              {
+                "time": 0,
+                "color": "FFFFFFFF"
+              },
+              {
+                "time": 0.4333,
+                "color": "FFFFFFFF"
+              },
+              {
+                "time": 0.5,
+                "color": "FCFCFC1A"
+              },
+              {
+                "time": 0.5667,
+                "color": "FCFCFC00"
+              },
+              {
+                "time": 0.5834,
+                "color": "FFFFFFFF"
+              }
+            ]
+          },
+          "鍥惧眰 4   澶嶅埗 3": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": ""
+              },
+              {
+                "time": 0.4,
+                "name": "tonghuashun-xin"
+              },
+              {
+                "time": 0.6167,
+                "name": ""
+              }
+            ],
+            "color": [
+              {
+                "time": 0,
+                "color": "FFFFFFFF"
+              },
+              {
+                "time": 0.4667,
+                "color": "FFFFFFFF"
+              },
+              {
+                "time": 0.5334,
+                "color": "FCFCFC1A"
+              },
+              {
+                "time": 0.6001,
+                "color": "FCFCFC00"
+              },
+              {
+                "time": 0.6168,
+                "color": "FFFFFFFF"
+              }
+            ]
+          },
+          "鍥惧眰 5 澶嶅埗": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": ""
+              },
+              {
+                "time": 0.5167,
+                "name": "tonghaushun-xing"
+              },
+              {
+                "time": 0.7,
+                "name": ""
+              }
+            ]
+          },
+          "鍥惧眰 4     澶嶅埗 5": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": ""
+              },
+              {
+                "time": 0.3,
+                "name": "tonghuashun-xin"
+              },
+              {
+                "time": 0.5167,
+                "name": ""
+              }
+            ],
+            "color": [
+              {
+                "time": 0,
+                "color": "FFFFFFFF"
+              },
+              {
+                "time": 0.3667,
+                "color": "FFFFFFFF"
+              },
+              {
+                "time": 0.4334,
+                "color": "FCFCFC1A"
+              },
+              {
+                "time": 0.5001,
+                "color": "FCFCFC00"
+              },
+              {
+                "time": 0.5168,
+                "color": "FFFFFFFF"
+              }
+            ]
+          },
+          "鍥惧眰 4  澶嶅埗 2": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": ""
+              },
+              {
+                "time": 0.3333,
+                "name": "tonghuashun-xin"
+              },
+              {
+                "time": 0.55,
+                "name": ""
+              }
+            ],
+            "color": [
+              {
+                "time": 0,
+                "color": "FFFFFFFF"
+              },
+              {
+                "time": 0.4,
+                "color": "FFFFFFFF"
+              },
+              {
+                "time": 0.4667,
+                "color": "FCFCFC1A"
+              },
+              {
+                "time": 0.5334,
+                "color": "FCFCFC00"
+              },
+              {
+                "time": 0.5501,
+                "color": "FFFFFFFF"
+              }
+            ]
+          },
+          "鍥惧眰 4 澶嶅埗": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": ""
+              },
+              {
+                "time": 0.3,
+                "name": "tonghuashun-xin"
+              },
+              {
+                "time": 0.5167,
+                "name": ""
+              }
+            ],
+            "color": [
+              {
+                "time": 0,
+                "color": "FFFFFFFF"
+              },
+              {
+                "time": 0.3667,
+                "color": "FFFFFFFF"
+              },
+              {
+                "time": 0.4334,
+                "color": "FCFCFC1A"
+              },
+              {
+                "time": 0.5001,
+                "color": "FCFCFC00"
+              },
+              {
+                "time": 0.5168,
+                "color": "FFFFFFFF"
+              }
+            ]
+          },
+          "鍥惧眰 4": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": ""
+              },
+              {
+                "time": 0.3833,
+                "name": "tonghuashun-xin"
+              },
+              {
+                "time": 0.6,
+                "name": ""
+              }
+            ],
+            "color": [
+              {
+                "time": 0,
+                "color": "FFFFFFFF"
+              },
+              {
+                "time": 0.45,
+                "color": "FFFFFFFF"
+              },
+              {
+                "time": 0.5167,
+                "color": "FCFCFC1A"
+              },
+              {
+                "time": 0.5834,
+                "color": "FCFCFC00"
+              },
+              {
+                "time": 0.6001,
+                "color": "FFFFFFFF"
+              }
+            ]
+          },
+          "鍥惧眰 1": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": ""
+              },
+              {
+                "time": 0.1,
+                "name": "tonghuashun-hua-1"
+              }
+            ],
+            "color": [
+              {
+                "time": 0,
+                "color": "FFFFFFFF"
+              },
+              {
+                "time": 0.1,
+                "color": "FCFCFC1A"
+              },
+              {
+                "time": 0.15,
+                "color": "FFFFFFFF"
+              }
+            ]
+          },
+          "鍥惧眰 3": {
+            "color": [
+              {
+                "time": 0,
+                "color": "FCFCFC1A"
+              },
+              {
+                "time": 0.05,
+                "color": "FFFFFFFF"
+              }
+            ]
+          },
+          "鍥惧眰 2": {
+            "color": [
+              {
+                "time": 0,
+                "color": "FCFCFC1A"
+              },
+              {
+                "time": 0.05,
+                "color": "FFFFFFFF"
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\ntonghuashun.png\r\nsize: 256,256\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\ntonghuashuntong\r\n  rotate: false\r\n  xy: 1, 1\r\n  size: 88, 83\r\n  orig: 88, 83\r\n  offset: 0, 0\r\n  index: -1\r\ntonghua-shun\r\n  rotate: false\r\n  xy: 1, 87\r\n  size: 89, 81\r\n  orig: 89, 81\r\n  offset: 0, 0\r\n  index: -1\r\ntonghuashun-hua-1\r\n  rotate: false\r\n  xy: 91, 1\r\n  size: 86, 84\r\n  orig: 86, 84\r\n  offset: 0, 0\r\n  index: -1\r\ntonghuashun-xin\r\n  rotate: false\r\n  xy: 179, 60\r\n  size: 35, 31\r\n  orig: 35, 31\r\n  offset: 0, 0\r\n  index: -1\r\ntonghaushun-xing\r\n  rotate: false\r\n  xy: 179, 1\r\n  size: 58, 57\r\n  orig: 58, 57\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "b25H9ncYpLrYxNxKSWPDQI"
+    }
+  ],
+  "textureNames": [
+    "tonghuashun.png"
+  ]
+}

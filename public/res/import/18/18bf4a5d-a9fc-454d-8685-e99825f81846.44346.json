@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lian-liandui",
+    "texture": "cdTkaV5AFJkY8Zx9rlQ1w+",
+    "rect": [
+      1,
+      1,
+      118,
+      235
+    ],
+    "offset": [
+      -4,
+      9.5
+    ],
+    "originalSize": [
+      128,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

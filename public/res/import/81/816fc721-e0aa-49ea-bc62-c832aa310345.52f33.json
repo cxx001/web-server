@@ -1,0 +1,194 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "jingbaodeng",
+  "_native": "raw-skeleton.json",
+  "_skeletonJson": {
+    "skeleton": {
+      "width": 176,
+      "height": 170.75,
+      "fps": 60,
+      "spine": "3.6.0",
+      "hash": " ",
+      "name": "armatureName"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "inheritScale": false,
+        "x": 0.05,
+        "y": -49.5,
+        "name": "1",
+        "parent": "root",
+        "transform": "noScale"
+      },
+      {
+        "inheritScale": false,
+        "name": "3",
+        "parent": "root",
+        "transform": "noScale"
+      },
+      {
+        "inheritScale": false,
+        "x": -76,
+        "y": 71.75,
+        "name": "2",
+        "parent": "root",
+        "transform": "noScale"
+      }
+    ],
+    "slots": [
+      {
+        "name": "1",
+        "bone": "1",
+        "attachment": "jingbaodeng1"
+      },
+      {
+        "name": "3",
+        "bone": "3",
+        "attachment": "jingbaodeng2"
+      },
+      {
+        "name": "2",
+        "bone": "2",
+        "attachment": "jingbaodeng2"
+      }
+    ],
+    "skins": {
+      "default": {
+        "1": {
+          "jingbaodeng1": {
+            "name": "jingbaodeng1",
+            "width": 48,
+            "height": 58,
+            "y": 49.5
+          }
+        },
+        "2": {
+          "jingbaodeng2": {
+            "name": "jingbaodeng2",
+            "width": 100,
+            "height": 99,
+            "x": 76.05,
+            "y": -71.75
+          }
+        },
+        "3": {
+          "jingbaodeng2": {
+            "name": "jingbaodeng2",
+            "width": 100,
+            "height": 99,
+            "x": 76.05,
+            "y": -71.75
+          }
+        }
+      }
+    },
+    "animations": {
+      "jingbaodeng": {
+        "bones": {
+          "2": {
+            "translate": [
+              {
+                "time": 0
+              },
+              {
+                "time": 0.0667,
+                "x": -10.15,
+                "y": 9.55
+              },
+              {
+                "time": 0.15,
+                "x": -30.4,
+                "y": 28.65
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.0667,
+                "x": 1.13,
+                "y": 1.13
+              },
+              {
+                "time": 0.15,
+                "x": 1.4,
+                "y": 1.4
+              }
+            ]
+          },
+          "3": {
+            "translate": [
+              {
+                "time": 0
+              },
+              {
+                "time": 0.1,
+                "x": -76,
+                "y": 71.75
+              }
+            ]
+          }
+        },
+        "slots": {
+          "2": {
+            "color": [
+              {
+                "time": 0,
+                "color": "FFFFFFFF"
+              },
+              {
+                "time": 0.0667,
+                "color": "FCFCFCB8"
+              },
+              {
+                "time": 0.15,
+                "color": "FCFCFC00"
+              }
+            ]
+          },
+          "3": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": ""
+              },
+              {
+                "time": 0.1,
+                "name": "jingbaodeng2"
+              }
+            ],
+            "color": [
+              {
+                "time": 0,
+                "color": "FFFFFFFF"
+              },
+              {
+                "time": 0.1,
+                "color": "FCFCFC42"
+              },
+              {
+                "time": 0.2167,
+                "color": "FCFCFC47"
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\njingbaodeng.png\r\nsize: 128,256\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\njingbaodeng1\r\n  rotate: false\r\n  xy: 1, 102\r\n  size: 48, 58\r\n  orig: 100, 99\r\n  offset: 28, 15\r\n  index: -1\r\njingbaodeng2\r\n  rotate: false\r\n  xy: 1, 1\r\n  size: 100, 99\r\n  orig: 100, 99\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "dcHsZDIgdGm5KeE307A4D3"
+    }
+  ],
+  "textureNames": [
+    "jingbaodeng.png"
+  ]
+}

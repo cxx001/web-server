@@ -1,0 +1,460 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "dh_buff_donghua",
+  "_native": "raw-skeleton.json",
+  "_skeletonJson": {
+    "skeleton": {
+      "width": 658.23,
+      "height": 264.82,
+      "fps": 60,
+      "spine": "3.6.0",
+      "hash": " ",
+      "name": "armatureName"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "inheritScale": false,
+        "name": "buff_xing 2xing1",
+        "parent": "root",
+        "transform": "noScale"
+      },
+      {
+        "inheritScale": false,
+        "x": 463.35,
+        "y": -60.7,
+        "scaleX": 0.68,
+        "scaleY": 0.68,
+        "name": "buff_xing 2guang",
+        "parent": "root",
+        "transform": "noScale"
+      },
+      {
+        "inheritScale": false,
+        "name": "buff_xing 2sheng",
+        "parent": "root",
+        "transform": "noScale"
+      },
+      {
+        "inheritScale": false,
+        "name": "buff_xing 2",
+        "parent": "root",
+        "transform": "noScale"
+      }
+    ],
+    "slots": [
+      {
+        "name": "buff_xing 2sheng",
+        "bone": "buff_xing 2sheng",
+        "attachment": "zhuang-dh"
+      },
+      {
+        "name": "buff_xing 2guang",
+        "bone": "buff_xing 2guang",
+        "attachment": "dh_buff_guang"
+      },
+      {
+        "name": "buff_xing 2xing1",
+        "bone": "buff_xing 2xing1",
+        "attachment": "dh_buff_xingxing"
+      },
+      {
+        "name": "buff_xing 2",
+        "bone": "buff_xing 2",
+        "attachment": "dh_buff_xingxing"
+      }
+    ],
+    "skins": {
+      "default": {
+        "buff_xing 2guang": {
+          "dh_buff_guang": {
+            "name": "dh_buff_guang",
+            "width": 214,
+            "height": 218,
+            "x": 116,
+            "y": -121.5
+          }
+        },
+        "buff_xing 2xing1": {
+          "dh_buff_xingxing": {
+            "name": "dh_buff_xingxing",
+            "width": 27,
+            "height": 28,
+            "x": 13.5,
+            "y": -14
+          }
+        },
+        "buff_xing 2": {
+          "dh_buff_xingxing": {
+            "name": "dh_buff_xingxing",
+            "width": 27,
+            "height": 28,
+            "x": 13.5,
+            "y": -14
+          }
+        },
+        "buff_xing 2sheng": {
+          "zhuang-dh": {
+            "name": "zhuang-dh",
+            "width": 55,
+            "height": 60,
+            "x": 27.5,
+            "y": -30
+          }
+        }
+      }
+    },
+    "animations": {
+      "dh_buff": {
+        "bones": {
+          "buff_xing 2": {
+            "translate": [
+              {
+                "time": 0
+              },
+              {
+                "time": 0.3667,
+                "x": 532.2,
+                "y": 3.45
+              },
+              {
+                "time": 0.5834,
+                "x": 542.15,
+                "y": -23.05
+              },
+              {
+                "time": 0.8001,
+                "x": 532.2,
+                "y": 3.45
+              }
+            ],
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              },
+              {
+                "time": 0.3667,
+                "angle": 2.45
+              },
+              {
+                "time": 0.5834,
+                "angle": 142.02
+              },
+              {
+                "time": 0.8001,
+                "angle": 2.45
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.3667,
+                "x": 0.46,
+                "y": 0.46
+              },
+              {
+                "time": 0.5834,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.8001,
+                "x": 0.46,
+                "y": 0.46
+              }
+            ],
+            "shear": [
+              {
+                "time": 0
+              },
+              {
+                "time": 0.3667
+              },
+              {
+                "time": 0.5834
+              },
+              {
+                "time": 0.8001
+              }
+            ]
+          },
+          "buff_xing 2xing1": {
+            "translate": [
+              {
+                "time": 0
+              },
+              {
+                "time": 0.15,
+                "x": 509.7,
+                "y": 27.95
+              },
+              {
+                "time": 0.3667,
+                "x": 534.5,
+                "y": 15.35
+              },
+              {
+                "time": 0.5834,
+                "x": 509.7,
+                "y": 27.95
+              },
+              {
+                "time": 0.6167
+              }
+            ],
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              },
+              {
+                "time": 0.15,
+                "angle": 2.45
+              },
+              {
+                "time": 0.3667,
+                "angle": -153.23
+              },
+              {
+                "time": 0.5834,
+                "angle": 2.45
+              },
+              {
+                "time": 0.6167,
+                "angle": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.15,
+                "x": 0.46,
+                "y": 0.46
+              },
+              {
+                "time": 0.3667,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.5834,
+                "x": 0.46,
+                "y": 0.46
+              },
+              {
+                "time": 0.6167,
+                "x": 1,
+                "y": 1
+              }
+            ],
+            "shear": [
+              {
+                "time": 0
+              },
+              {
+                "time": 0.15
+              },
+              {
+                "time": 0.3667
+              },
+              {
+                "time": 0.5834
+              },
+              {
+                "time": 0.6167
+              }
+            ]
+          },
+          "buff_xing 2guang": {
+            "translate": [
+              {
+                "time": 0
+              },
+              {
+                "time": 0.05,
+                "x": -66.6,
+                "y": 205.95
+              },
+              {
+                "time": 0.1333,
+                "x": 12.35,
+                "y": 123.75
+              },
+              {
+                "time": 0.1666,
+                "x": -463.35,
+                "y": 60.7
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.05,
+                "x": 1.68,
+                "y": 1.66
+              },
+              {
+                "time": 0.1333,
+                "x": 0.66,
+                "y": 0.66
+              },
+              {
+                "time": 0.1666,
+                "x": 1.47,
+                "y": 1.47
+              }
+            ]
+          },
+          "buff_xing 2sheng": {
+            "translate": [
+              {
+                "time": 0
+              },
+              {
+                "time": 0.15,
+                "x": 500.1,
+                "y": 40
+              }
+            ]
+          }
+        },
+        "slots": {
+          "buff_xing 2": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": ""
+              },
+              {
+                "time": 0.3667,
+                "name": "dh_buff_xingxing"
+              }
+            ],
+            "color": [
+              {
+                "time": 0,
+                "color": "FFFFFFFF"
+              },
+              {
+                "time": 0.3667,
+                "color": "FCFCFC33"
+              },
+              {
+                "time": 0.5834,
+                "color": "FFFFFFFF"
+              },
+              {
+                "time": 0.8001,
+                "color": "FCFCFC33"
+              }
+            ]
+          },
+          "buff_xing 2xing1": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": ""
+              },
+              {
+                "time": 0.15,
+                "name": "dh_buff_xingxing"
+              },
+              {
+                "time": 0.6167,
+                "name": ""
+              }
+            ],
+            "color": [
+              {
+                "time": 0,
+                "color": "FFFFFFFF"
+              },
+              {
+                "time": 0.15,
+                "color": "FCFCFC33"
+              },
+              {
+                "time": 0.3667,
+                "color": "FFFFFFFF"
+              },
+              {
+                "time": 0.5834,
+                "color": "FCFCFC33"
+              },
+              {
+                "time": 0.6167,
+                "color": "FFFFFFFF"
+              }
+            ]
+          },
+          "buff_xing 2guang": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "dh_buff_guang"
+              },
+              {
+                "time": 0.1667,
+                "name": ""
+              }
+            ],
+            "color": [
+              {
+                "time": 0,
+                "color": "FCFCFC47"
+              },
+              {
+                "time": 0.05,
+                "color": "FFFFFFFF"
+              },
+              {
+                "time": 0.1333,
+                "color": "FCFCFC6B"
+              },
+              {
+                "time": 0.1666,
+                "color": "FFFFFFFF"
+              }
+            ]
+          },
+          "buff_xing 2sheng": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": ""
+              },
+              {
+                "time": 0.15,
+                "name": "zhuang-dh"
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\ndh_buff_donghua.png\r\nsize: 512,256\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nzhuang-dh\r\n  rotate: false\r\n  xy: 217, 1\r\n  size: 55, 60\r\n  orig: 55, 60\r\n  offset: 0, 0\r\n  index: -1\r\ndh_buff_guang\r\n  rotate: false\r\n  xy: 1, 1\r\n  size: 214, 218\r\n  orig: 232, 243\r\n  offset: 9, 11\r\n  index: -1\r\ndh_buff_xingxing\r\n  rotate: false\r\n  xy: 1, 221\r\n  size: 27, 28\r\n  orig: 27, 28\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "c7D01f/ItKe5QF3APzJMJm"
+    }
+  ],
+  "textureNames": [
+    "dh_buff_donghua.png"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "phz_comm_clock",
+    "texture": "454MzS9kxL6pTZXNogniO/",
+    "rect": [
+      0,
+      5,
+      99,
+      89
+    ],
+    "offset": [
+      0,
+      -2.5
+    ],
+    "originalSize": [
+      99,
+      94
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

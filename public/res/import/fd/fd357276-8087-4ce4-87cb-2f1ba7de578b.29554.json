@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "baozha",
+    "texture": "983Cc5ykdO5ZRf89WRMWtQ",
+    "rect": [
+      1,
+      1,
+      997,
+      585
+    ],
+    "offset": [
+      -12.5,
+      218.5
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
