@@ -1,0 +1,289 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Public_Public_网络1格",
+      "texture": "1638d1ef6",
+      "rect": [
+        68,
+        265,
+        46,
+        38
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        46,
+        38
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Public_Public_网络5格",
+      "texture": "1638d1ef6",
+      "rect": [
+        68,
+        309,
+        46,
+        38
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        46,
+        38
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Public_Public_网络3格",
+      "texture": "1638d1ef6",
+      "rect": [
+        68,
+        353,
+        46,
+        38
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        46,
+        38
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Public_Public_网络2格",
+      "texture": "1638d1ef6",
+      "rect": [
+        68,
+        397,
+        46,
+        38
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        46,
+        38
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  [
+    {
+      "__type__": "cc.Prefab",
+      "_name": "public_ping",
+      "data": {
+        "__id__": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "public_ping",
+      "_children": [
+        {
+          "__id__": 2
+        }
+      ],
+      "_level": 1,
+      "_components": [
+        {
+          "__id__": 4
+        },
+        {
+          "__type__": "cc.Widget",
+          "node": {
+            "__id__": 1
+          },
+          "_alignFlags": 33,
+          "_right": 937,
+          "_top": 521
+        },
+        {
+          "__type__": "f9bd8gWv3ZJIpiLzat3uSmr",
+          "node": {
+            "__id__": 1
+          },
+          "wifiSprites": [
+            {
+              "__uuid__": "007Sdvq8dAPJpAcIujCl3x"
+            },
+            {
+              "__uuid__": "7fmCoYGQZCAqvSiuxN5wpk"
+            },
+            {
+              "__uuid__": "09mcO0+0hNsaqUnw0IoXkq"
+            },
+            {
+              "__uuid__": "e85YBM09tK5pIdI+dk16A3"
+            },
+            {
+              "__uuid__": "04y5iipDVAgI74z521CTZV"
+            }
+          ],
+          "wifiIcon": {
+            "__id__": 4
+          },
+          "pingTex": {
+            "__id__": 3
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "c6RCyKeDxDgo3pfVdRjgcw"
+        },
+        "fileId": "5echqHM+5AIZ12Hb8ADhq/"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 46,
+        "height": 38
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": 320,
+        "y": 180
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "New Label",
+      "_parent": {
+        "__id__": 1
+      },
+      "_level": 2,
+      "_components": [
+        {
+          "__id__": 3
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "c6RCyKeDxDgo3pfVdRjgcw"
+        },
+        "fileId": "1c0mykSr1D/KAluvDXpAcX"
+      },
+      "_color": {
+        "__type__": "cc.Color",
+        "r": 126,
+        "g": 185,
+        "b": 59
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 88.91,
+        "height": 50.4
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": 1.1,
+        "y": -30.1
+      }
+    },
+    {
+      "__type__": "cc.Label",
+      "node": {
+        "__id__": 2
+      },
+      "_materials": [
+        {
+          "__uuid__": "ecpdLyjvZBwrvm+cedCcQy"
+        }
+      ],
+      "_useOriginalSize": false,
+      "_string": "延迟36ms",
+      "_N$string": "延迟36ms",
+      "_fontSize": 20,
+      "_N$horizontalAlign": 1,
+      "_N$verticalAlign": 1
+    },
+    {
+      "__type__": "cc.Sprite",
+      "node": {
+        "__id__": 1
+      },
+      "_materials": [
+        {
+          "__uuid__": "ecpdLyjvZBwrvm+cedCcQy"
+        }
+      ],
+      "_spriteFrame": {
+        "__uuid__": "04y5iipDVAgI74z521CTZV"
+      }
+    }
+  ],
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Public_Public_网络4格",
+      "texture": "1638d1ef6",
+      "rect": [
+        68,
+        441,
+        46,
+        38
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        46,
+        38
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  }
+]
