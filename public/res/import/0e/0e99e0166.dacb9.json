@@ -1,0 +1,90 @@
+[
+  [
+    {
+      "__type__": "cc.Prefab",
+      "_name": "iPhoneX",
+      "data": {
+        "__id__": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "iPhoneX",
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 1
+          },
+          "_materials": [
+            {
+              "__uuid__": "ecpdLyjvZBwrvm+cedCcQy"
+            }
+          ],
+          "_spriteFrame": {
+            "__uuid__": "c3lTyEU/hEX7ldLGyPk2sp"
+          },
+          "_type": 1
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "aaDeqtyLlBkYBsA8FBvnFh"
+        },
+        "fileId": "33h26g9AxPd6VOqLY+syqY"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 1625,
+        "height": 750
+      },
+      "_trs": {
+        "__type__": "TypedArray",
+        "ctor": "Float32Array",
+        "array": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1
+        ]
+      }
+    }
+  ],
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "iphoneX",
+      "texture": "28HUq8YvxHN5sIvI+ocM85",
+      "rect": [
+        0,
+        0,
+        1625,
+        750
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        1625,
+        750
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  }
+]
